@@ -1,29 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-mark1 {
-  background-color: white;
-  color: black;
-  border-width: 2px;
-  border-radius: 25px;
-  border-style: solid;
-  border-color: blue;
-}
-mark2 {
-  background-color: white;
-  color: black;
-  border-width: 2px;
-  border-radius: 25px;
-  border-style: solid;
-  border-color: red;
-}
-</style>
-</head>
-<body>
-
-<p>A mark element is displayed like this:</p>
-
 <tmark>Title:</tmark><tmark>My</tmark><tmark>Daily</tmark><tmark>Routine</tmark><br/>
 <br/>
 <tmark>I</tmark><tmark>wake</tmark><tmark>up</tmark><tmark>at</tmark><tmark>7</tmark><tmark>o'clock</tmark><tmark>in</tmark><tmark>the</tmark><tmark>morning.</tmark><tmark>First,</tmark><tmark>I</tmark><tmark>brush</tmark><tmark>my</tmark><tmark>teeth</tmark><tmark>and</tmark><tmark>wash</tmark><tmark>my</tmark><tmark>face.</tmark><tmark>Then,</tmark><tmark>I</tmark><tmark>have</tmark><tmark>breakfast.</tmark><tmark>I</tmark><tmark>like</tmark><tmark>to</tmark><tmark>eat</tmark><tmark>cereal</tmark><tmark>with</tmark><tmark>milk.</tmark><br/>
@@ -37,9 +11,3 @@ mark2 {
 <tmark>For</tmark><tmark>dinner,</tmark><tmark>I</tmark><tmark>cook</tmark><tmark>something</tmark><tmark>simple</tmark><tmark>like</tmark><tmark>pasta</tmark><tmark>or</tmark><tmark>rice.</tmark><tmark>After</tmark><tmark>dinner,</tmark><tmark>I</tmark><tmark>take</tmark><tmark>a</tmark><tmark>shower</tmark><tmark>and</tmark><tmark>get</tmark><tmark>ready</tmark><tmark>for</tmark><tmark>bed.</tmark><tmark>I</tmark><tmark>like</tmark><tmark>to</tmark><tmark>sleep</tmark><tmark>early,</tmark><tmark>so</tmark><tmark>I</tmark><tmark>go</tmark><tmark>to</tmark><tmark>bed</tmark><tmark>at</tmark><tmark>10</tmark><tmark>o'clock.</tmark><br/>
 <br/>
 <tmark>That's</tmark><tmark>my</tmark><tmark>daily</tmark><tmark>routine.</tmark><tmark>It's</tmark><tmark>simple,</tmark><tmark>but</tmark><tmark>I</tmark><tmark>enjoy</tmark><tmark>it.</tmark><br/>
-
-
-<p>Change the default CSS settings to see the effect.</p>
-
-</body>
-</html>
