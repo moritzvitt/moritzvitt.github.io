@@ -12,7 +12,7 @@ def split_word(word):
     front = ""
     
     for s in word:
-        if s.isalpha():
+        if s.isalpha() or s == "'" or s.isnumeric():
             front += s
         else:
             return front, word[len(front):]
