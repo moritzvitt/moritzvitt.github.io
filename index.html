@@ -15,6 +15,20 @@ tmark {
 tmark:hover {
   background: rgba(100, 100, 255, 0.25);
 }
+
+/* New CSS styles for the tooltip */ Hey Anton, hier hat ChatGPT mir natürlich geholfen, ich hoffe, ich versaue hier nix
+    .tooltip {
+      display: none; /* Hide by default */
+      position: absolute;
+      background-color: #333;
+      color: white;
+      padding: 5px;
+      border-radius: 5px;
+      top: -30px; /* Adjust this value to position the tooltip */
+      left: 50%; /* Center horizontally */
+      transform: translateX(-50%); /* Center horizontally */
+    }  
+  
 .text_format {
 }
 </style>
@@ -23,7 +37,7 @@ tmark:hover {
 
 <p>A mark element is displayed like this:</p>
 
-<tmark>Title</tmark>: <tmark>My</tmark> <tmark>Daily</tmark> <tmark>Routine</tmark><br/>
+<tmark onclick="showTooltip(this)">Title</tmark>: <tmark>My</tmark> <tmark>Daily</tmark> <tmark>Routine</tmark><br/>
 <br/>
 <tmark>I</tmark> <tmark>wake</tmark> <tmark>up</tmark> <tmark>at</tmark> <tmark>7</tmark> <tmark>o'clock</tmark> <tmark>in</tmark> <tmark>the</tmark> <tmark>morning</tmark>. <tmark>First</tmark>, <tmark>I</tmark> <tmark>brush</tmark> <tmark>my</tmark> <tmark>teeth</tmark> <tmark>and</tmark> <tmark>wash</tmark> <tmark>my</tmark> <tmark>face</tmark>. <tmark>Then</tmark>, <tmark>I</tmark> <tmark>have</tmark> <tmark>breakfast</tmark>. <tmark>I</tmark> <tmark>like</tmark> <tmark>to</tmark> <tmark>eat</tmark> <tmark>cereal</tmark> <tmark>with</tmark> <tmark>milk</tmark>.<br/>
 <br/>
@@ -38,6 +52,12 @@ tmark:hover {
 <tmark>That's</tmark> <tmark>my</tmark> <tmark>daily</tmark> <tmark>routine</tmark>. <tmark>It's</tmark> <tmark>simple</tmark>, <tmark>but</tmark> <tmark>I</tmark> <tmark>enjoy</tmark> <tmark>it</tmark>.<br/>
 
 <br/>
+
+<div class="tooltip" id="tooltip">This is a tooltip</div>
+
+<button onclick="myFunction()">Click me</button>
+<p id="demo"></p>
+  
 <button onclick="myFunction()">Click me</button>
 
 <p id="demo"></p>
@@ -46,6 +66,14 @@ tmark:hover {
 function myFunction() {
   document.getElementById("demo").innerHTML = "Hello Anton";
 }
+
+function showTooltip(markElement) {
+      const tooltip = document.getElementById("tooltip");
+      tooltip.style.display = "block"; // Show the tooltip
+      tooltip.textContent = "This is a custom tooltip"; // Set tooltip content
+      tooltip.style.left = markElement.offsetLeft + "px"; // Position the tooltip horizontally
+    }  
+  
 </script>
 
 </body>
