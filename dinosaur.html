@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+  /* Define a class for the tooltip */
+  .tooltip {
+    position: relative;
+    display: inline-block;
+  }
+
+  /* Style the tooltip content */
+  .tooltip .tooltiptext {
+    visibility: hidden;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%;
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0;
+    transition: opacity 0.3s;
+  }
+
+  /* Show the tooltip when hovering over the parent element */
+  .tooltip:hover .tooltiptext {
+    visibility: visible;
+    opacity: 1;
+  }
+</style>
+</head>
+<body>
+
+<div id="text-container">
+  <!-- The generated HTML string will replace the content here -->
+</div>
+
+<!-- You can add the "tooltip" class to other words as needed -->
+
+<script>
+// Define a string
+const words = "In a lush prehistoric valley, a curious young dinosaur named Dara ventured away from her herd. She discovered a hidden glen filled with colorful flowers and sparkling streams. Dara's heart danced with joy as she explored the magical place. Suddenly, a gentle giant, an old Brachiosaurus named Bert, appeared. He shared tales of ancient times and the importance of family. Grateful, Dara returned to her herd, cherishing the wisdom she had gained, and forever valuing the bond with her family.";
+
+// Split the string at spaces (blanks)
+const wordList = words.split(' ');
+
+// Create a new string with words wrapped in <span> tags
+const htmlString = wordList.map(word => `<span class="tooltip">${word} <span class="tooltiptext">dinosaur</span></span>`).join(' ');
+
+// Replace the content of the "text-container" div with the generated HTML string
+document.getElementById('text-container').innerHTML = htmlString;
+
+//chatGPT 
+
+const apiKey = 'YOUR_API_KEY'; // Replace with your actual API key
+const endpoint = 'https://api.openai.com/v1/engines/davinci/completions'; // The endpoint for ChatGPT
+
+// Function to send a prompt and get a response
+async function getChatResponse(prompt) {
+    try {
+        const response = await axios.post(endpoint, {
+            prompt: prompt,
+            max_tokens: 50, // You can adjust the token limit as needed
+        }, {
+            headers: {
+                'Authorization': `Bearer ${apiKey}`,
+                'Content-Type': 'application/json',
+            },
+        });
+
+        // Extract and display the response
+        const chatResponse = response.data.choices[0].text;
+        console.log(chatResponse);
+
+        // You can use chatResponse in your webpage as needed
+    } catch (error) {
+        console.error('Error:', error);
+    }
+}
+
+// Example usage
+const prompt = 'Translate the following English text to French: "Hello, world!"';
+getChatResponse(prompt);
+
+</script>
+
+</body>
+</html>

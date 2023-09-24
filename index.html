@@ -10,25 +10,29 @@ tmark {
   border-width: 2px;
   border-radius: 25px;
   border-style: solid;
-  border-color: rgba(100, 100, 255, 0.25)
-}
-tmark:hover {
-  background: rgba(100, 100, 255, 0.25);
+  border-color: rgba(100, 100, 255, 0.25);
+  position: relative; /* Added position: relative; */
+  display: inline-block; /* Added to keep tmark elements inline */
+  padding: 2px 5px; /* Added padding for better spacing */
 }
 
-/* New CSS styles for the tooltip */ Hey Anton, hier hat ChatGPT mir natürlich geholfen, ich hoffe, ich versaue hier nix
-    .tooltip {
-      display: none; /* Hide by default */
-      position: absolute;
-      background-color: #333;
-      color: white;
-      padding: 5px;
-      border-radius: 5px;
-      top: -30px; /* Adjust this value to position the tooltip */
-      left: 50%; /* Center horizontally */
-      transform: translateX(-50%); /* Center horizontally */
-    }  
-  
+tmark:hover {
+  background: rgba(255, 100, 214, 0.25);
+}
+
+/* New CSS styles for the tooltip */
+.tooltip {
+  display: none;
+  position: absolute;
+  background-color: #333;
+  color: white;
+  padding: 5px;
+  border-radius: 5px;
+  top: -30px;
+  left: 50%;
+  transform: translateX(-50%);
+}
+
 .text_format {
 }
 </style>
@@ -53,11 +57,6 @@ tmark:hover {
 
 <br/>
 
-<div class="tooltip" id="tooltip">This is a tooltip</div>
-
-<button onclick="myFunction()">Click me</button>
-<p id="demo"></p>
-  
 <button onclick="myFunction()">Click me</button>
 
 <p id="demo"></p>
@@ -67,14 +66,8 @@ function myFunction() {
   document.getElementById("demo").innerHTML = "Hello Anton";
 }
 
-function showTooltip(markElement) {
-      const tooltip = document.getElementById("tooltip");
-      tooltip.style.display = "block"; // Show the tooltip
-      tooltip.textContent = "This is a custom tooltip"; // Set tooltip content
-      tooltip.style.left = markElement.offsetLeft + "px"; // Position the tooltip horizontally
-    }  
-  
 </script>
+
 
 </body>
 </html>
