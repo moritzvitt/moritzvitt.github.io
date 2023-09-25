@@ -1,12 +1,22 @@
 
+// Creating an object with key-value pairs
+const person = {
+    name: "John",
+    age: 30,
+    city: "New York",
+    isStudent: false,
+  };
+  
+  console.log(person); // Outputs the entire object
+    console.log(person.name); // Outputs "John"  
 
-const story = "In a lush prehistoric valley, a curious young dinosaur named Dara ventured away from her herd. She discovered a hidden glen filled with colorful flowers and sparkling streams. Dara's heart danced with joy as she explored the magical place. Suddenly, a gentle giant, an old Brachiosaurus named Bert, appeared. He shared tales of ancient times and the importance of family. Grateful, Dara returned to her herd, cherishing the wisdom she had gained, and forever valuing the bond with her family.";
+const story = "In a lush prehistoric valley";
 
 // Split the story into words
 const storyWords = story.split(' ');
 
 // Define the German translations in the same order
-const translation = "In einem üppigen prähistorischen Tal, eine neugierige junge Dinosaurier namens Dara wagte weg von ihrer Herde. Sie entdeckte eine versteckte Schlucht, gefüllt mit bunten Blumen und funkelnden Bächen. Daras Herz tanzte vor Freude, als sie den magischen Ort erforschte. Plötzlich, ein sanfter Riese, ein alter Brachiosaurus namens Bert, teilte Geschichten von alten Zeiten und die Bedeutung von Familie. Dankbar kehrte Dara zu ihrer Herde zurück, schätzend die Weisheit, die sie gewonnen hatte, und für immer die Bindung zu ihrer Familie schätzend.";
+const translation = "In einem üppigen prähistorischen Tal";
 
 translationWords = translation.split(' ');
 console.log(translationWords);
