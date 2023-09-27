@@ -1,7 +1,7 @@
 
 let dictionary = {};
   
-fetch('https://github.com/moritzvitt/moritzvitt.github.io/blob/main/stories.json')
+fetch('https://raw.githubusercontent.com/moritzvitt/moritzvitt.github.io/main/stories.json')
   .then(response => response.json())
   .then(data => {
     // Now 'data' contains the JSON data from the external file

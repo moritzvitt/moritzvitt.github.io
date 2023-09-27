@@ -2,137 +2,15 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <style>
-    /* Define a class for the tooltip container */
-    .tooltip-container {
-      position: relative;
-      display: inline-block;
-      cursor: pointer; /* Add cursor pointer to indicate clickable */
-    }
-
-    /* Style the tooltip content */
-    .tooltip-container .tooltiptext {
-      visibility: hidden;
-      background-color: #333;
-      color: #fff;
-      text-align: center;
-      border-radius: 5px;
-      padding: 5px;
-      position: absolute;
-      z-index: 1;
-      bottom: 125%;
-      left: 50%;
-      transform: translateX(-50%);
-      opacity: 0;
-      transition: opacity 0.3s;
-    }
-
-    /* Show the tooltip when the container is clicked */
-    .tooltip-container.active .tooltiptext {
-      visibility: visible;
-      opacity: 1;
-    }
-
-    /* Format the word with spaces between them */
-    .word {
-      white-space: pre-wrap;
-    }
-  </style>
+  <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
+
 <body>
-<br>
-<br>
-<br>
-<br>
-<br>
-<div id="text-container">
-  <!-- The generated HTML string will replace the content here -->
-</div>
-
-
-
-<script>
   
-const dictionary = {
-    'in': 'Hab dich lieb Mama!',
-    'a': 'einem',
-    lush: 'Hab dich lieb Mama!',
-    prehistoric: 'prähistorischen',
-    'valley.': 'Tal',
-    waterfall: 'Wasserfall',
-    sunlight: 'Sonnenlicht',
-    glistened: 'glänzte',
-    through: 'durch',
-    the: 'das',
-    dense: 'dichte',
-    canopy: 'Blätterdach',
-    birds: 'Vögel',
-    chirped: 'zwitscherten',
-    and: 'und',
-    insects: 'Insekten',
-    buzzed: 'summten',
-    as: 'während',
-    they: 'sie',
-    explored: 'erkundeten',
-    this: 'diese',
-    ancient: 'uralte',
-    'wilderness.': 'Wildnis',
+<br><br><br><br><br><br>
+<div id="text-container"> </div>
 
-};
-
-const textContainer = document.getElementById('text-container');
-
-
-// Create an array to store clicked words
-const clickedWords = [];
-
-for (const key in dictionary) {
-    if (dictionary.hasOwnProperty(key)) {
-        const tooltipContainer = document.createElement('span');
-        tooltipContainer.classList.add('tooltip-container');
-
-        // Create a span for the word
-        const wordSpan = document.createElement('span');
-        wordSpan.textContent = key + ' ';
-        wordSpan.classList.add('word');
-
-        // Create a span for the tooltip text
-        const tooltipTextSpan = document.createElement('span');
-        tooltipTextSpan.textContent = dictionary[key];
-        tooltipTextSpan.classList.add('tooltiptext');
-
-        // Append the word and tooltip text spans to the tooltip container
-        tooltipContainer.appendChild(wordSpan);
-        tooltipContainer.appendChild(tooltipTextSpan);
-
-        textContainer.appendChild(tooltipContainer);
-
-        // Add a click event listener to toggle the 'active' class
-        tooltipContainer.addEventListener('click', function(event) {
-          event.stopPropagation(); // Prevent the click event from propagating to the parent
-          tooltipContainer.classList.toggle('active');
-
-          // Check if the word is already in the array
-          const index = clickedWords.indexOf(key);
-          
-          // If it's not in the array, add it
-          if (index === -1) {
-            clickedWords.push(key);
-          } else { // If it's already in the array, remove it
-            clickedWords.splice(index, 1);
-          }
-
-          // Display the clicked words in the console
-          console.log(clickedWords);
-        });
-
-        // Add a mouseout event listener to hide the tooltip when hovering away
-        tooltipContainer.addEventListener('mouseout', function() {
-          tooltipContainer.classList.remove('active');
-        });
-    }
-}
-</script>
+<script src="script.js"></script>
 
 </body>
 </html>
