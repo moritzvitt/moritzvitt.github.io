@@ -1,65 +1,66 @@
+var dictionary = {};
 
-let dictionary = {};
-  
 fetch('https://raw.githubusercontent.com/moritzvitt/moritzvitt.github.io/main/stories.json')
   .then(response => response.json())
   .then(data => {
     // Now 'data' contains the JSON data from the external file
     dictionary = data.translations;
-    console.log(dictionary);
-  })
 
+    // You can safely use 'dictionary' here or call a function to process it
+    initializeDictionary(dictionary);
+  })
   .catch(error => console.error('Error fetching JSON:', error));
 
-const textContainer = document.getElementById('text-container');
+// This code here runs before the fetch is complete, so 'dictionary' is not populated yet
 
+function initializeDictionary(dictionary) {
+  const textContainer = document.getElementById('text-container');
 
-// Create an array to store clicked words
-const clickedWords = [];
+  // Create an array to store clicked words
+  const clickedWords = [];
 
-for (const key in dictionary) {
-    if (dictionary.hasOwnProperty(key)) {
-        const tooltipContainer = document.createElement('span');
-        tooltipContainer.classList.add('tooltip-container');
+  for (const key in dictionary) {
+    const tooltipContainer = document.createElement('span');
+    tooltipContainer.classList.add('tooltip-container');
 
-        // Create a span for the word
-        const wordSpan = document.createElement('span');
-        wordSpan.textContent = key + ' ';
-        wordSpan.classList.add('word');
+    // Create a span for the word
+    const wordSpan = document.createElement('span');
+    wordSpan.textContent = key + ' ';
+    wordSpan.classList.add('word');
 
-        // Create a span for the tooltip text
-        const tooltipTextSpan = document.createElement('span');
-        tooltipTextSpan.textContent = dictionary[key];
-        tooltipTextSpan.classList.add('tooltiptext');
+    // Create a span for the tooltip text
+    const tooltipTextSpan = document.createElement('span');
+    tooltipTextSpan.textContent = dictionary[key];
+    tooltipTextSpan.classList.add('tooltiptext');
 
-        // Append the word and tooltip text spans to the tooltip container
-        tooltipContainer.appendChild(wordSpan);
-        tooltipContainer.appendChild(tooltipTextSpan);
+    // Append the word and tooltip text spans to the tooltip container
+    tooltipContainer.appendChild(wordSpan);
+    tooltipContainer.appendChild(tooltipTextSpan);
 
-        textContainer.appendChild(tooltipContainer);
+    textContainer.appendChild(tooltipContainer);
 
-        // Add a click event listener to toggle the 'active' class
-        tooltipContainer.addEventListener('click', function(event) {
-          event.stopPropagation(); // Prevent the click event from propagating to the parent
-          tooltipContainer.classList.toggle('active');
+    // Add a click event listener to toggle the 'active' class
+    tooltipContainer.addEventListener('click', function (event) {
+      event.stopPropagation(); // Prevent the click event from propagating to the parent
+      tooltipContainer.classList.toggle('active');
 
-          // Check if the word is already in the array
-          const index = clickedWords.indexOf(key);
-          
-          // If it's not in the array, add it
-          if (index === -1) {
-            clickedWords.push(key);
-          } else { // If it's already in the array, remove it
-            clickedWords.splice(index, 1);
-          }
+      // Check if the word is already in the array
+      const index = clickedWords.indexOf(key);
 
-          // Display the clicked words in the console
-          console.log(clickedWords);
-        });
+      // If it's not in the array, add it
+      if (index === -1) {
+        clickedWords.push(key);
+      } else { // If it's already in the array, remove it
+        clickedWords.splice(index, 1);
+      }
 
-        // Add a mouseout event listener to hide the tooltip when hovering away
-        tooltipContainer.addEventListener('mouseout', function() {
-          tooltipContainer.classList.remove('active');
-        });
-    }
+      // Display the clicked words in the console
+      console.log(clickedWords);
+    });
+
+    // Add a mouseout event listener to hide the tooltip when hovering away
+    tooltipContainer.addEventListener('mouseout', function () {
+      tooltipContainer.classList.remove('active');
+    });
+  }
 }
