@@ -1,3 +1,21 @@
+/* Add styles for larger screens */
+@media screen and (min-width: 768px) {
+  /* Your styles for larger screens here */
+  body {
+    font-size: 18px;
+    line-height: 1.6;
+  }
+}
+
+/* Add styles for smaller screens (e.g., mobile devices) */
+@media screen and (max-width: 767px) {
+  /* Your styles for smaller screens here */
+  body {
+    font-size: 16px;
+    line-height: 1.4;
+  }
+}
+
 .tooltip-container {
       position: relative;
       display: inline-block;
