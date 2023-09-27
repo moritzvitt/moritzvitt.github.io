@@ -25,10 +25,11 @@
     /* Style the tooltip content */
     .tooltip-container .tooltiptext {
       visibility: hidden;
-      background-color: #333;
+      background-color: #b494ff;
       color: #fff;
       text-align: center;
       border-radius: 5px;
+      border: 2px solid #0d082d; /* Add a 2px solid black border */
       padding: 5px;
       position: absolute;
       z-index: 1;
