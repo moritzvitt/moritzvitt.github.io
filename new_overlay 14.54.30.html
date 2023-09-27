@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Overlay Example</title>
+<style>
+  /* Style for the overlay */
+  .overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent black background */
+    justify-content: center;
+    align-items: center;
+  }
+
+  /* Style for the overlay content */
+  .overlay-content {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    text-align: center;
+  }
+
+  /* Style for the close button */
+  .close-button {
+    background: none;
+    border: none;
+    font-size: 1.5em;
+    cursor: pointer;
+  }
+</style>
+</head>
+<body>
+  <p>Click on the word to open the overlay: <span id="overlay-trigger">Open Overlay</span></p>
+
+  <!-- Overlay -->
+  <div id="overlay" class="overlay">
+    <div class="overlay-content">
+      <h2>Overlay Content</h2>
+      <p>This is some content inside the overlay.</p>
+      <button class="close-button" onclick="closeOverlay()">Close</button>
+    </div>
+  </div>
+
+  <script>
+    // Function to open the overlay
+    function openOverlay() {
+	  document.getElementById('overlay').style.display = 'flex';
+	  document.body.style.overflow = 'hidden'; // Disable scrolling
+	}
+
+	// Function to close the overlay and enable scrolling
+	function closeOverlay() {
+	  document.getElementById('overlay').style.display = 'none';
+	  document.body.style.overflow = 'auto'; // Enable scrolling
+	}
+
+    // Add a click event listener to the trigger element
+    document.getElementById('overlay-trigger').addEventListener('click', openOverlay);
+  </script>
+</body>
+</html>
