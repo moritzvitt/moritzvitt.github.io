@@ -17,36 +17,113 @@
 }
 
 .tooltip-container {
-      position: relative;
-      display: inline-block;
-      cursor: pointer; /* Add cursor pointer to indicate clickable */
-    }
+  position: relative;
+  display: inline-block;
+  cursor: pointer; /* Add cursor pointer to indicate clickable */
+}
 
-    /* Style the tooltip content */
-    .tooltip-container .tooltiptext {
-      visibility: hidden;
-      background-color: #b494ff;
-      color: #fff;
-      text-align: center;
-      border-radius: 5px;
-      border: 2px solid #0d082d; /* Add a 2px solid black border */
-      padding: 5px;
-      position: absolute;
-      z-index: 1;
-      bottom: 125%;
-      left: 50%;
-      transform: translateX(-50%);
-      opacity: 0;
-      transition: opacity 0.3s;
-    }
+/* Style the tooltip content */
+.tooltip-container .tooltiptext {
+  visibility: hidden;
+  background-color: #b494ff;
+  color: #fff;
+  text-align: left;
+  border-radius: 5px;
+  border: 2px solid #0d082d; 
+  padding: 5px;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 0;
+  transition: opacity 0.3s;
+  width: auto; /*Set the width to 50% of the viewport  */
+  max-width: 1000px; /* Optional: Set a maximum width to prevent it from becoming too wide  */
+}
 
-    /* Show the tooltip when the container is clicked */
-    .tooltip-container.active .tooltiptext {
-      visibility: visible;
-      opacity: 1;
-    }
+/* Style the tooltip content */
+/* .tooltip-container .tooltiptext {
+  visibility: hidden;
+  background-color: #b494ff;
+  color: #fff;
+  text-align: center;
+  border-radius: 5px;
+  border: 2px solid #0d082d;
+  padding: 5px;
+  position: absolute;
+  z-index: 1;
+  left: 50%;
+  transform: translateX(-50%);
+  opacity: 0;
+  transition: opacity 0.3s;
+  /* white-space: nowrap; /* Prevent long words from breaking tooltip container
+  width: 100%; /* Set the width to 50% of the viewport 
+  max-width: 300px; /* Optional: Set a maximum width to prevent it from becoming too wide 
+} */
 
-    /* Format the word with spaces between them */
-    .word {
-      white-space: pre-wrap;
-    }
+/* Show the tooltip when the container is clicked */
+.tooltip-container.active .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}
+
+/* Format the word with spaces between them */
+.word {
+  white-space: pre-wrap;
+}
+/* Position the tooltip content 
+
+.tooltip-container.active .tooltiptext.top {
+  bottom: calc(100% + 10px); /* Adjust this value as needed 
+  transform: translateX(-50%);
+}
+
+.tooltip-container.active .tooltiptext.bottom {
+  top: calc(100% + 10px); /* Adjust this value as needed 
+  transform: translateX(-50%);
+}
+
+.tooltip-container.active .tooltiptext.left {
+  right: calc(100% + 10px); /* Adjust this value as needed 
+  transform: translateY(-50%);
+}
+
+.tooltip-container.active .tooltiptext.right {
+  left: calc(100% + 10px); /* Adjust this value as needed 
+  transform: translateY(-50%);
+}
+
+*/
+
+/* Format the word with spaces between them */
+
+
+/* Java Script, to check if the tooltip is too close to the edge of the viewport 
+and adjust its position accordingly */
+
+/*
+function toggleTooltip(container) {
+  const tooltip = container.querySelector('.tooltiptext');
+  const rect = container.getBoundingClientRect();
+
+  if (rect.left < 0) {
+    // Tooltip is too close to the left edge of the viewport, position it to the right
+    tooltip.style.left = '100%';
+    tooltip.style.top = '50%';
+    tooltip.style.transform = 'translateY(-50%)';
+  } else if (rect.right > window.innerWidth) {
+    // Tooltip is too close to the right edge of the viewport, position it to the left
+    tooltip.style.right = '100%';
+    tooltip.style.top = '50%';
+    tooltip.style.transform = 'translateY(-50%)';
+  } else {
+    // Default position below the container
+    tooltip.style.left = '50%';
+    tooltip.style.top = '100%';
+    tooltip.style.transform = 'translateX(-50%)';
+  }
+
+  container.classList.toggle('active');
+}
+*/
