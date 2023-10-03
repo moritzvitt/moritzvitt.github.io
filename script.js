@@ -1,3 +1,5 @@
+
+
 var dictionary = {};
 
 fetch('https://raw.githubusercontent.com/moritzvitt/moritzvitt.github.io/main/stories.json')
@@ -10,7 +12,7 @@ fetch('https://raw.githubusercontent.com/moritzvitt/moritzvitt.github.io/main/st
     initializeDictionary(dictionary);
   })
   .catch(error => console.error('Error fetching JSON:', error));
-
+ 
 // This code here runs before the fetch is complete, so 'dictionary' is not populated yet
 
 function initializeDictionary(dictionary) {
@@ -38,7 +40,7 @@ function initializeDictionary(dictionary) {
     tooltipContainer.appendChild(tooltipTextSpan);
 
     textContainer.appendChild(tooltipContainer);
-
+                
     // Add a click event listener to toggle the 'active' class
     tooltipContainer.addEventListener('click', function (event) {
       event.stopPropagation(); // Prevent the click event from propagating to the parent
