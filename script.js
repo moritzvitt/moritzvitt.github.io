@@ -30,13 +30,9 @@ function initializeDictionary(dictionary) {
     wordSpan.textContent = dictionary[key][0] + ' ';
     wordSpan.classList.add('word');
 
-    // const lineBreak = document.createElement('br');
-    // lineBreak.textContent = dictionary[key][0] + ' ';
-    // lineBreak.classList.add('word');
-    
     // Create a span for the tooltip text
     const tooltipTextSpan = document.createElement('span');
-    tooltipTextSpan.innerHTML = dictionary[key].slice(1).join('\n');
+    tooltipTextSpan.innerHTML = dictionary[key].slice(1).join('<br>');
     tooltipTextSpan.classList.add('tooltiptext');
 
     // Append the word and tooltip text spans to the tooltip container
