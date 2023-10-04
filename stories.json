@@ -1,89 +1,113 @@
 {
-    "italian": "Nicola e Susie, innamorati, si baciarono accendendo il loro amore. Decisero di pianificare un viaggio divertente insieme, inseguendo risate ed emozioni.",
+    "italian": "Nicholas pensò, \"Sono innamorato di Susie.\" L'ha baciata, lei sorpresa rispose: \"Pianifichiamo un viaggio insieme?\" Lui annuì, grato per l'esilarante svolta.",
     "translations": {
         "1": [
-            "Nicola",
-            ": Nicola\n\n\n: Innamorato protagonista"
+            "Nicholas",
+            ": Nicholas thought",
+            ": Nicholas pensò",
+            ": Nicola, Niccolò"
         ],
         "2": [
-            "e",
-            "e"
+            "pensò,",
+            ": Nicholas thought",
+            ": Nicholas pensò",
+            ": rifletté, considerò"
         ],
         "3": [
-            "Susie,",
-            ": Susie\n\n\n: Innamorata di Nicola"
+            "\"Sono",
+            "\"Sono"
         ],
         "4": [
-            "innamorati,",
-            ": in love\n\n\n: persone che amano"
+            "innamorato",
+            ": in love",
+            ": Ama romanticamente",
+            ": preso da Susie, infatuato di Susie"
         ],
         "5": [
-            "si",
-            "si"
-        ],
-        "6": [
-            "baciarono",
-            ": kissed each other\n\n\n: Si scambiarono baci"
-        ],
-        "7": [
-            "accendendo",
-            ": igniting\n\n\n: intensificando l'amore"
-        ],
-        "8": [
-            "il",
-            "il"
-        ],
-        "9": [
-            "loro",
-            "loro"
-        ],
-        "10": [
-            "amore.",
-            ": their love\n\n\n: Sentimento affettivo intenso"
-        ],
-        "11": [
-            "Decisero",
-            ": They decided\n\n\n: Hanno preso decisione"
-        ],
-        "12": [
             "di",
             "di"
         ],
-        "13": [
-            "pianificare",
-            ": to plan\n\n\n: Organizzare in anticipo"
+        "6": [
+            "Susie.\"",
+            ": Susie",
+            ": Persona amata da Nicholas",
+            ": Questa ragazza, la mia amata"
         ],
-        "14": [
+        "7": [
+            "L'ha",
+            ": He has",
+            ": He kissed her",
+            ": La possiede, Detiene"
+        ],
+        "8": [
+            "baciata,",
+            ": he kissed her",
+            ": Ha baciato lei",
+            ": sfiorata da un bacio, accarezzata dai suoi baci"
+        ],
+        "9": [
+            "lei",
+            "lei"
+        ],
+        "10": [
+            "sorpresa",
+            "sorpresa"
+        ],
+        "11": [
+            "rispose:",
+            ": she responded",
+            ": Lei rispose",
+            ": replicò, riscontrò"
+        ],
+        "12": [
+            "\"Pianifichiamo",
+            ": Let's plan",
+            ": Organizziamo un viaggio",
+            ": Organizziamo, programiamo"
+        ],
+        "13": [
             "un",
             "un"
         ],
-        "15": [
+        "14": [
             "viaggio",
             "viaggio"
         ],
+        "15": [
+            "insieme?\"",
+            "insieme?\""
+        ],
         "16": [
-            "divertente",
-            "divertente"
+            "Lui",
+            "Lui"
         ],
         "17": [
-            "insieme,",
-            "insieme,"
+            "annuì,",
+            ": he nodded",
+            ": Fece un cenno",
+            ": acconsentì, convenne"
         ],
         "18": [
-            "inseguendo",
-            ": chasing\n\n\n: Cercando intensamente"
+            "grato",
+            ": grateful",
+            ": gratuito, riconoscente",
+            ": apprezzato, riconoscente"
         ],
         "19": [
-            "risate",
-            ": laughs\n\n\n: Ridere forte"
+            "per",
+            "per"
         ],
         "20": [
-            "ed",
-            "ed"
+            "l'esilarante",
+            ": the hilarious",
+            ": Divertentemente sorprendente",
+            ": divertente svolta, commovente svolta"
         ],
         "21": [
-            "emozioni.",
-            ": emotions\n\n\n: Sentimenti intensi"
+            "svolta.",
+            ": turning point",
+            ": cambio improvviso",
+            ": cambiamento, variazione"
         ]
     }
 }

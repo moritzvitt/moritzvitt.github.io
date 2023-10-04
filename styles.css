@@ -40,8 +40,10 @@
   transform: translateX(-50%);
   opacity: 0;
   transition: opacity 0.3s;
-  width: auto; /*Set the width to 50% of the viewport  */
+  width: auto;/*  Set the width to 50% of the viewport  */
   max-width: 1000px; /* Optional: Set a maximum width to prevent it from becoming too wide  */
+  min-width: min-content + 100px;
+  padding: 0 10px; /* Add 10px padding to the left and right sides */
 }
 
 /* Style the tooltip content */

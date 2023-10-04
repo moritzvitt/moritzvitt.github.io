@@ -24,21 +24,25 @@ function initializeDictionary(dictionary) {
   for (const key in dictionary) {
     const tooltipContainer = document.createElement('span');
     tooltipContainer.classList.add('tooltip-container');
-
+ 
     // Create a span for the word
     const wordSpan = document.createElement('span');
     wordSpan.textContent = dictionary[key][0] + ' ';
     wordSpan.classList.add('word');
 
+    // const lineBreak = document.createElement('br');
+    // lineBreak.textContent = dictionary[key][0] + ' ';
+    // lineBreak.classList.add('word');
+    
     // Create a span for the tooltip text
     const tooltipTextSpan = document.createElement('span');
-    tooltipTextSpan.textContent = dictionary[key][1];
+    tooltipTextSpan.textContent = dictionary[key].slice(1).join('\n');
     tooltipTextSpan.classList.add('tooltiptext');
 
     // Append the word and tooltip text spans to the tooltip container
     tooltipContainer.appendChild(wordSpan);
     tooltipContainer.appendChild(tooltipTextSpan);
-
+    
     textContainer.appendChild(tooltipContainer);
                 
     // Add a click event listener to toggle the 'active' class
