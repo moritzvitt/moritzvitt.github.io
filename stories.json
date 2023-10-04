@@ -1,89 +1,93 @@
 {
-    "french": "Nicolas et Susie tombent amoureux. Ils s'embrassent passionnément, planifient un voyage ensemble, mais oublient d'acheter les billets d'avion! Oh là là!",
+    "italian": "Nicola e Susie, innamorati, pianificano un viaggio. Sorridendo, si baciano. Tutto pronto! Ma inciampano sulle valigie, cadendo tra le risate. Stupefacentemente romantico!",
     "translations": {
         "1": [
-            "Nicolas",
-            ": Nicolas<br>Personnage principal"
+            "Nicola",
+            ": Nicola\n: Persona innamorata."
         ],
         "2": [
-            "et",
-            ": and<br>et = and"
+            "e",
+            "e"
         ],
         "3": [
-            "Susie",
-            ": Susie<br>fille dont Nicolas est amoureux"
+            "Susie,",
+            ": Susie\n: Innamorata di Nicola"
         ],
         "4": [
-            "tombent",
-            ": fall in love<br>sont devenus amoureux"
+            "innamorati,",
+            ": in love\n: Sono amanti"
         ],
         "5": [
-            "amoureux.",
-            ": in love<br>tombent en amour"
+            "pianificano",
+            ": plan a trip\n: Organizzano, programmano."
         ],
         "6": [
-            "Ils",
-            ": They<br>Ils = They"
-        ],
-        "7": [
-            "s'embrassent",
-            ": they kiss<br>Ils s'embrassent passionnément\n"
-        ],
-        "8": [
-            "passionnément,",
-            ": passionately<br>Avec beaucoup d'amour"
-        ],
-        "9": [
-            "planifient",
-            ": plan a trip<br>préparent un voyage"
-        ],
-        "10": [
             "un",
             "un"
         ],
+        "7": [
+            "viaggio.",
+            "viaggio."
+        ],
+        "8": [
+            "Sorridendo,",
+            ": Smiling,\n: Sorridendo mentre baciandosi"
+        ],
+        "9": [
+            "si",
+            "si"
+        ],
+        "10": [
+            "baciano.",
+            ": they kiss\n: Si stanno baciando"
+        ],
         "11": [
-            "voyage",
-            ": planning a trip<br>planifier un trajet"
+            "Tutto",
+            "Tutto"
         ],
         "12": [
-            "ensemble,",
-            ": together<br>\"En compagnie\""
+            "pronto!",
+            "pronto!"
         ],
         "13": [
-            "mais",
-            ": but<br>but"
+            "Ma",
+            "Ma"
         ],
         "14": [
-            "oublient",
-            ": forget to<br>oublient d'acheter"
+            "inciampano",
+            ": stumble upon\n: Inciampare su qualcosa"
         ],
         "15": [
-            "d'acheter",
-            ": to buy<br>à acheter"
+            "sulle",
+            "sulle"
         ],
         "16": [
-            "les",
-            ": the<br>les = the (pluriel)"
+            "valigie,",
+            ": suitcases\n: Bagagli per viaggio"
         ],
         "17": [
-            "billets",
-            ": airplane tickets<br>billets d'avion"
+            "cadendo",
+            ": falling down\n: Caduta divertente"
         ],
         "18": [
-            "d'avion!",
-            ": plane tickets<br>billets d'avion"
+            "tra",
+            "tra"
         ],
         "19": [
-            "Oh",
-            "Oh"
+            "le",
+            "le"
         ],
         "20": [
-            "là",
-            "là"
+            "risate.",
+            ": laughter\n: ridendo rumorosamente"
         ],
         "21": [
-            "là!",
-            "là!"
+            "Stupefacentemente",
+            ": Astonishingly\n: Incredibilmente, estremamente romantico"
+        ],
+        "22": [
+            "romantico!",
+            ": Romantic!\n: Estremamente sentimentale!"
         ]
     }
 }
