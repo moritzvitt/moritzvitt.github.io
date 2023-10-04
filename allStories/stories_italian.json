@@ -1,0 +1,1237 @@
+{
+    "italian": "Nicholas era un giovane ragazzo vivace e pieno di passione. Un giorno in primavera, incontrò Susie in un giardino colorato di fiori. Susie, con i suoi occhi scintillanti e un sorriso luminoso, conquistò subito il cuore di Nicholas.\n\nMentre osservavano insieme le libellule danzare sull'acqua, Nicholas gli disse: \"Sei come una libellula, bella e libera.\" Susie rispose sorridendo dolcemente: \"E tu sei come la mia acqua, senza la quale non potrei volare.\"\n\nI due iniziarono a passare molto tempo insieme, e si innamorarono profondamente. Un giorno, sotto un albero di ciliegio in fiore, Nicholas fece un passo coraggioso e baciò Susie. Conseguentemente, le guance di Susie si tinteggiarono del color ciliegia, e si accorse di quanto fosse innamorata di Nicholas.\n\nDopo quel bacio, decisero di pianificare un viaggio insieme. Nicholas suggerì di andare in Francia. \"Posso immaginarmi già a camminare per i pittoreschi vicoli di Parigi con te al mio fianco,\" disse.\n\nMentre preparavano le valigie, scoppio' una disputa su chi avrebbe dovuto portare il dentifricio. Nicholas suggerì che ognuno dovesse portare il proprio, mentre Susie sostenne che ne bastasse uno per entrambi.\n\n\"Se portiamo due dentifrici, avremo più spazio per i cioccolatini francesi!\" esclamò Nicholas, risolvendo la lite con un brillante espediente che fece ridere Susie fino alle lacrime.\n\nQuella risata degustata sotto il ciliegio in fiore riaffiorò ancora, al pensiero del momento in cui si erano innamorati; quel momento in cui avevano capito che erano fatti l'uno per l'altra. E così, con le valigie pronte e i cuori pieni d'amore, Nicholas e Susie part",
+    "translations": {
+        "1": [
+            "Nicholas",
+            ": Nicholas was",
+            ": Vivace ragazzo appassionato",
+            ": Nicolò, Niccolò"
+        ],
+        "2": [
+            "era",
+            "era"
+        ],
+        "3": [
+            "un",
+            "un"
+        ],
+        "4": [
+            "giovane",
+            "giovane"
+        ],
+        "5": [
+            "ragazzo",
+            "ragazzo"
+        ],
+        "6": [
+            "vivace",
+            ": lively",
+            ": energico, vivido, brillante",
+            ": energico, frizzante"
+        ],
+        "7": [
+            "e",
+            "e"
+        ],
+        "8": [
+            "pieno",
+            "pieno"
+        ],
+        "9": [
+            "di",
+            "di"
+        ],
+        "10": [
+            "passione.",
+            ": passion",
+            ": Entusiasmo intenso",
+            ": entusiasmo, fervore"
+        ],
+        "11": [
+            "Un",
+            "Un"
+        ],
+        "12": [
+            "giorno",
+            "giorno"
+        ],
+        "13": [
+            "in",
+            "in"
+        ],
+        "14": [
+            "primavera,",
+            ": spring",
+            ": stagione dei fiori",
+            ": stagione dei fiori, periodo di rinascita"
+        ],
+        "15": [
+            "incontrò",
+            ": met",
+            ": Conobbe, si imbatté",
+            ": si imbatté in, incrociò"
+        ],
+        "16": [
+            "Susie",
+            ": Susie",
+            ": Incontrò una donna",
+            ": Suzanne, Susanna"
+        ],
+        "17": [
+            "in",
+            "in"
+        ],
+        "18": [
+            "un",
+            "un"
+        ],
+        "19": [
+            "giardino",
+            ": a colorful garden",
+            ": Spazio verde piantumato",
+            ": parco, orto"
+        ],
+        "20": [
+            "colorato",
+            ": colored with flowers",
+            ": pieno di colori",
+            ": vivace, ricco di colori"
+        ],
+        "21": [
+            "di",
+            "di"
+        ],
+        "22": [
+            "fiori.",
+            ": colored with flowers",
+            ": piante in fiore",
+            ": boccioli, fioriture"
+        ],
+        "23": [
+            "Susie,",
+            ": Susie",
+            ": Una ragazza affascinante",
+            ": La ragazza, L'incantevole giovane"
+        ],
+        "24": [
+            "con",
+            "con"
+        ],
+        "25": [
+            "i",
+            "i"
+        ],
+        "26": [
+            "suoi",
+            "suoi"
+        ],
+        "27": [
+            "occhi",
+            "occhi"
+        ],
+        "28": [
+            "scintillanti",
+            ": sparkling",
+            ": Luccicanti, brillanti",
+            ": luccicanti, brillanti"
+        ],
+        "29": [
+            "e",
+            "e"
+        ],
+        "30": [
+            "un",
+            "un"
+        ],
+        "31": [
+            "sorriso",
+            ": bright smile",
+            ": espressione felice",
+            ": risata luminosa, ghigno radioso"
+        ],
+        "32": [
+            "luminoso,",
+            ": bright",
+            ": molto brillante",
+            ": radioso, brillante"
+        ],
+        "33": [
+            "conquistò",
+            ": won over",
+            ": sedusse immediatamente",
+            ": affascinò, sedusse"
+        ],
+        "34": [
+            "subito",
+            "subito"
+        ],
+        "35": [
+            "il",
+            "il"
+        ],
+        "36": [
+            "cuore",
+            "cuore"
+        ],
+        "37": [
+            "di",
+            "di"
+        ],
+        "38": [
+            "Nicholas.",
+            ": Nicholas's heart",
+            ": persona amata",
+            ": Niccolò, Nicola"
+        ],
+        "39": [
+            "Mentre",
+            "Mentre"
+        ],
+        "40": [
+            "osservavano",
+            ": they were observing",
+            ": Guardavano attentamente",
+            ": contemplavano, scrutavano"
+        ],
+        "41": [
+            "insieme",
+            "insieme"
+        ],
+        "42": [
+            "le",
+            "le"
+        ],
+        "43": [
+            "libellule",
+            ": dragonfly",
+            ": Insetti volanti colorati",
+            ": demoiselle, donzella volante"
+        ],
+        "44": [
+            "danzare",
+            ": to dance",
+            ": muoversi leggermente",
+            ": svolazzare, volteggiare"
+        ],
+        "45": [
+            "sull'acqua,",
+            ": on the water",
+            ": sopra l'acqua",
+            ": sopra il lago, al di sopra del fiume"
+        ],
+        "46": [
+            "Nicholas",
+            ": While they watched the dragonflies dance on the water, Nicholas told him: You are like a dragon",
+            ": Personaggio parlante",
+            ": Niccolò, Nicola"
+        ],
+        "47": [
+            "gli",
+            "gli"
+        ],
+        "48": [
+            "disse:",
+            "disse:"
+        ],
+        "49": [
+            "\"Sei",
+            "\"Sei"
+        ],
+        "50": [
+            "come",
+            "come"
+        ],
+        "51": [
+            "una",
+            "una"
+        ],
+        "52": [
+            "libellula,",
+            ": dragonfly",
+            ": Insetto volante",
+            ": anisottero, donzella volante"
+        ],
+        "53": [
+            "bella",
+            "bella"
+        ],
+        "54": [
+            "e",
+            "e"
+        ],
+        "55": [
+            "libera.\"",
+            ": free",
+            ": senza restrizioni",
+            ": indipendente, autonoma"
+        ],
+        "56": [
+            "Susie",
+            ": Susie",
+            ": Personaggio femminile",
+            ": Lei, la ragazza"
+        ],
+        "57": [
+            "rispose",
+            ": replied",
+            ": Susie rispose",
+            ": ribatté, replicò"
+        ],
+        "58": [
+            "sorridendo",
+            ": smiling sweetly",
+            ": rispondendo con sorriso",
+            ": con un sorriso, ghignando dolcemente"
+        ],
+        "59": [
+            "dolcemente:",
+            ": sweetly",
+            ": sorrise gentilmente",
+            ": teneramente, con dolcezza"
+        ],
+        "60": [
+            "\"E",
+            "\"E"
+        ],
+        "61": [
+            "tu",
+            "tu"
+        ],
+        "62": [
+            "sei",
+            "sei"
+        ],
+        "63": [
+            "come",
+            "come"
+        ],
+        "64": [
+            "la",
+            "la"
+        ],
+        "65": [
+            "mia",
+            "mia"
+        ],
+        "66": [
+            "acqua,",
+            "acqua,"
+        ],
+        "67": [
+            "senza",
+            "senza"
+        ],
+        "68": [
+            "la",
+            "la"
+        ],
+        "69": [
+            "quale",
+            "quale"
+        ],
+        "70": [
+            "non",
+            "non"
+        ],
+        "71": [
+            "potrei",
+            "potrei"
+        ],
+        "72": [
+            "volare.\"",
+            ": to fly",
+            ": Sopravvivere, progredire, prosperare",
+            ": planare, librarsi"
+        ],
+        "73": [
+            "I",
+            "I"
+        ],
+        "74": [
+            "due",
+            "due"
+        ],
+        "75": [
+            "iniziarono",
+            ": they both started",
+            ": Cominciarono",
+            ": cominciarono, presero a"
+        ],
+        "76": [
+            "a",
+            "a"
+        ],
+        "77": [
+            "passare",
+            "passare"
+        ],
+        "78": [
+            "molto",
+            "molto"
+        ],
+        "79": [
+            "tempo",
+            "tempo"
+        ],
+        "80": [
+            "insieme,",
+            "insieme,"
+        ],
+        "81": [
+            "e",
+            "e"
+        ],
+        "82": [
+            "si",
+            "si"
+        ],
+        "83": [
+            "innamorarono",
+            ": fell in love",
+            ": Fell in love",
+            ": si affezionarono intensamente, si ambèdirono profondamente"
+        ],
+        "84": [
+            "profondamente.",
+            ": deeply in love",
+            ": Intensamente innamorati",
+            ": intensamente, visceralmente"
+        ],
+        "85": [
+            "Un",
+            "Un"
+        ],
+        "86": [
+            "giorno,",
+            "giorno,"
+        ],
+        "87": [
+            "sotto",
+            "sotto"
+        ],
+        "88": [
+            "un",
+            "un"
+        ],
+        "89": [
+            "albero",
+            ": tree",
+            ": Pianta grande",
+            ": pianta, vegetazione"
+        ],
+        "90": [
+            "di",
+            "di"
+        ],
+        "91": [
+            "ciliegio",
+            ": cherry tree",
+            ": Albero da frutto",
+            ": albero di ciliegie, pianta di ciliegie"
+        ],
+        "92": [
+            "in",
+            "in"
+        ],
+        "93": [
+            "fiore,",
+            ": in bloom",
+            ": in fioritura",
+            ": bocciolo, gemma"
+        ],
+        "94": [
+            "Nicholas",
+            ": One day, under a blooming cherry tree, Nicholas took a brave step and kissed Susie.",
+            ": Protagonista maschile",
+            ": Nicolò, Niccolò"
+        ],
+        "95": [
+            "fece",
+            ": made a",
+            ": fece = ha fatto",
+            ": eseguì, realizzò"
+        ],
+        "96": [
+            "un",
+            "un"
+        ],
+        "97": [
+            "passo",
+            "passo"
+        ],
+        "98": [
+            "coraggioso",
+            ": brave",
+            ": Ardito, audace",
+            ": Ardito, intrepido"
+        ],
+        "99": [
+            "e",
+            "e"
+        ],
+        "100": [
+            "baciò",
+            ": kissed",
+            ": ha baciato",
+            ": sfiorò con un bacio, coprì di baci"
+        ],
+        "101": [
+            "Susie.",
+            ": kissed Susie.",
+            ": Ammirata ragazza",
+            ": la ragazza, la giovane donna"
+        ],
+        "102": [
+            "Conseguentemente,",
+            ": Consequently,",
+            ": Come risultato",
+            ": Pertanto, di conseguenza"
+        ],
+        "103": [
+            "le",
+            "le"
+        ],
+        "104": [
+            "guance",
+            ": Susie's cheeks",
+            ": Faccia rossa",
+            ": fianchi del viso, gote"
+        ],
+        "105": [
+            "di",
+            "di"
+        ],
+        "106": [
+            "Susie",
+            ": Susie's cheeks",
+            ": Protagonista innamorata",
+            ": la ragazza, la giovane donna"
+        ],
+        "107": [
+            "si",
+            "si"
+        ],
+        "108": [
+            "tinteggiarono",
+            ": blushed cherry red",
+            ": Divennero colorate",
+            ": si colorarono, si tingevano"
+        ],
+        "109": [
+            "del",
+            "del"
+        ],
+        "110": [
+            "color",
+            ": cherry color",
+            ": Rosso intenso",
+            ": tinta, pigmentazione"
+        ],
+        "111": [
+            "ciliegia,",
+            ": cherry color",
+            ": colore rosso intenso",
+            ": frutto rosso, amarena"
+        ],
+        "112": [
+            "e",
+            "e"
+        ],
+        "113": [
+            "si",
+            "si"
+        ],
+        "114": [
+            "accorse",
+            ": realized",
+            ": Si rese conto",
+            ": si rese conto, si accertò"
+        ],
+        "115": [
+            "di",
+            "di"
+        ],
+        "116": [
+            "quanto",
+            "quanto"
+        ],
+        "117": [
+            "fosse",
+            "fosse"
+        ],
+        "118": [
+            "innamorata",
+            ": in love",
+            ": Ama profondamente",
+            ": presa da Nicholas, infatuata di Nicholas"
+        ],
+        "119": [
+            "di",
+            "di"
+        ],
+        "120": [
+            "Nicholas.",
+            ": of Nicholas.",
+            ": Susie's love interest",
+            ": Nico, Niccolò"
+        ],
+        "121": [
+            "Dopo",
+            "Dopo"
+        ],
+        "122": [
+            "quel",
+            "quel"
+        ],
+        "123": [
+            "bacio,",
+            ": kiss",
+            ": After that kiss",
+            ": sferzata d'amore, scambio di affetto"
+        ],
+        "124": [
+            "decisero",
+            ": they decided",
+            ": They decided",
+            ": optarono, scelsero"
+        ],
+        "125": [
+            "di",
+            "di"
+        ],
+        "126": [
+            "pianificare",
+            ": to plan",
+            ": Organizzare in anticipo",
+            ": programmare, organizzare"
+        ],
+        "127": [
+            "un",
+            "un"
+        ],
+        "128": [
+            "viaggio",
+            "viaggio"
+        ],
+        "129": [
+            "insieme.",
+            "insieme."
+        ],
+        "130": [
+            "Nicholas",
+            ": Nicholas",
+            ": Nicholas suggerì",
+            ": Nico, Niccolò"
+        ],
+        "131": [
+            "suggerì",
+            ": Nicholas suggested",
+            ": Nicholas propose",
+            ": proposto, suggerito"
+        ],
+        "132": [
+            "di",
+            "di"
+        ],
+        "133": [
+            "andare",
+            "andare"
+        ],
+        "134": [
+            "in",
+            "in"
+        ],
+        "135": [
+            "Francia.",
+            ": France",
+            ": andare in Francia",
+            ": Terra del vino, Repubblica francese"
+        ],
+        "136": [
+            "\"Posso",
+            "\"Posso"
+        ],
+        "137": [
+            "immaginarmi",
+            ": imagine myself",
+            ": Visualizzare mentalmente",
+            ": visualizzare me stesso, figurarmi"
+        ],
+        "138": [
+            "già",
+            "già"
+        ],
+        "139": [
+            "a",
+            "a"
+        ],
+        "140": [
+            "camminare",
+            ": to walk",
+            ": Andare a piedi",
+            ": passeggiare, vagare"
+        ],
+        "141": [
+            "per",
+            "per"
+        ],
+        "142": [
+            "i",
+            "i"
+        ],
+        "143": [
+            "pittoreschi",
+            ": picturesque alleys",
+            ": scenici, artisticamente interessanti",
+            ": scenici, suggestivi"
+        ],
+        "144": [
+            "vicoli",
+            ": picturesque alleys",
+            ": piccole strade strette",
+            ": stradine, viuzze"
+        ],
+        "145": [
+            "di",
+            "di"
+        ],
+        "146": [
+            "Parigi",
+            ": Paris",
+            ": Città francese romantica",
+            ": Città dell'Amore, Capitale Francese"
+        ],
+        "147": [
+            "con",
+            "con"
+        ],
+        "148": [
+            "te",
+            "te"
+        ],
+        "149": [
+            "al",
+            "al"
+        ],
+        "150": [
+            "mio",
+            "mio"
+        ],
+        "151": [
+            "fianco,\"",
+            ": at my side",
+            ": accanto a me",
+            ": costato, lato"
+        ],
+        "152": [
+            "disse.",
+            "disse."
+        ],
+        "153": [
+            "Mentre",
+            "Mentre"
+        ],
+        "154": [
+            "preparavano",
+            ": were preparing",
+            ": Stavano organizzando",
+            ": allestivano, organizzavano"
+        ],
+        "155": [
+            "le",
+            "le"
+        ],
+        "156": [
+            "valigie,",
+            ": suitcases",
+            ": Preparazione dei bagagli",
+            ": borsone, trolley"
+        ],
+        "157": [
+            "scoppio'",
+            ": broke out",
+            ": Iniziò improvvisamente",
+            ": divampò, si sviluppò"
+        ],
+        "158": [
+            "una",
+            "una"
+        ],
+        "159": [
+            "disputa",
+            ": dispute",
+            ": Discussione accesa",
+            ": litigio, polemica"
+        ],
+        "160": [
+            "su",
+            "su"
+        ],
+        "161": [
+            "chi",
+            "chi"
+        ],
+        "162": [
+            "avrebbe",
+            "avrebbe"
+        ],
+        "163": [
+            "dovuto",
+            "dovuto"
+        ],
+        "164": [
+            "portare",
+            "portare"
+        ],
+        "165": [
+            "il",
+            "il"
+        ],
+        "166": [
+            "dentifricio.",
+            ": toothpaste",
+            ": pasta per denti",
+            ": Pasta per denti, crema dentale"
+        ],
+        "167": [
+            "Nicholas",
+            ": Nicholas suggested",
+            ": Nicholas suggerì",
+            ": Nico, Nicola"
+        ],
+        "168": [
+            "suggerì",
+            ": Nicholas suggested",
+            ": proposto, consigliato",
+            ": propose, consigliò"
+        ],
+        "169": [
+            "che",
+            "che"
+        ],
+        "170": [
+            "ognuno",
+            ": everyone",
+            ": ciascuna persona",
+            ": ciascuno, tutti"
+        ],
+        "171": [
+            "dovesse",
+            ": should",
+            ": dovesse portare",
+            ": dovrebbe, avrebbe dovuto"
+        ],
+        "172": [
+            "portare",
+            "portare"
+        ],
+        "173": [
+            "il",
+            "il"
+        ],
+        "174": [
+            "proprio,",
+            "proprio,"
+        ],
+        "175": [
+            "mentre",
+            "mentre"
+        ],
+        "176": [
+            "Susie",
+            ": while Susie argued",
+            ": Altra persona",
+            ": la ragazza, la donna"
+        ],
+        "177": [
+            "sostenne",
+            ": argued that",
+            ": argomentò, affermò, dichiarò",
+            ": argomentò, affermò"
+        ],
+        "178": [
+            "che",
+            "che"
+        ],
+        "179": [
+            "ne",
+            "ne"
+        ],
+        "180": [
+            "bastasse",
+            ": one was enough",
+            ": fosse sufficiente",
+            ": fosse sufficiente, andasse bene"
+        ],
+        "181": [
+            "uno",
+            "uno"
+        ],
+        "182": [
+            "per",
+            "per"
+        ],
+        "183": [
+            "entrambi.",
+            "entrambi."
+        ],
+        "184": [
+            "\"Se",
+            "\"Se"
+        ],
+        "185": [
+            "portiamo",
+            ": we bring",
+            ": Noi trasportiamo",
+            ": trasportiamo, conduciamo"
+        ],
+        "186": [
+            "due",
+            "due"
+        ],
+        "187": [
+            "dentifrici,",
+            ": toothpastes",
+            ": tubi di pasta dentifricia",
+            ": pasta per i denti, creme dentali"
+        ],
+        "188": [
+            "avremo",
+            ": we will have",
+            ": we will have",
+            ": disporremo di, otterremo"
+        ],
+        "189": [
+            "più",
+            "più"
+        ],
+        "190": [
+            "spazio",
+            ": space",
+            ": Capacità di contenimento",
+            ": posto, capacità"
+        ],
+        "191": [
+            "per",
+            "per"
+        ],
+        "192": [
+            "i",
+            "i"
+        ],
+        "193": [
+            "cioccolatini",
+            ": French chocolates",
+            ": dolci al cioccolato",
+            ": praline, dolci al cioccolato"
+        ],
+        "194": [
+            "francesi!\"",
+            ": French chocolates",
+            ": dal Francia",
+            ": gallici, d'oltralpe"
+        ],
+        "195": [
+            "esclamò",
+            ": exclaimed",
+            ": disse con forza",
+            ": gridò, esordì"
+        ],
+        "196": [
+            "Nicholas,",
+            ": Nicholas exclaimed",
+            ": Nicholas esclamò",
+            ": Niccolò, Nico"
+        ],
+        "197": [
+            "risolvendo",
+            ": resolving",
+            ": risolvendo il conflitto",
+            ": ponendo fine a, risolvendo l'impasse"
+        ],
+        "198": [
+            "la",
+            "la"
+        ],
+        "199": [
+            "lite",
+            ": argument",
+            ": disputa, controversia, divergenza",
+            ": controversia, disputa"
+        ],
+        "200": [
+            "con",
+            "con"
+        ],
+        "201": [
+            "un",
+            "un"
+        ],
+        "202": [
+            "brillante",
+            ": brilliant",
+            ": Intelligente, geniale",
+            ": geniale, ingegnoso"
+        ],
+        "203": [
+            "espediente",
+            ": brilliant trick",
+            ": Soluzione ingegnosa",
+            ": stratagemma, trucco"
+        ],
+        "204": [
+            "che",
+            "che"
+        ],
+        "205": [
+            "fece",
+            ": made",
+            ": causò",
+            ": produsse, suscitò"
+        ],
+        "206": [
+            "ridere",
+            ": to laugh",
+            ": fare risate",
+            ": divertirsi, sbellicarsi"
+        ],
+        "207": [
+            "Susie",
+            ": Susie",
+            ": persona che ride",
+            ": la ragazza, la giovane donna"
+        ],
+        "208": [
+            "fino",
+            "fino"
+        ],
+        "209": [
+            "alle",
+            "alle"
+        ],
+        "210": [
+            "lacrime.",
+            ": to tears",
+            ": ridere eccessivamente",
+            ": pianto, pianto convulsivo"
+        ],
+        "211": [
+            "Quella",
+            "Quella"
+        ],
+        "212": [
+            "risata",
+            ": laughed",
+            ": Ricordo felice",
+            ": Risatina, Ghigno"
+        ],
+        "213": [
+            "degustata",
+            ": savored",
+            ": gustata attentamente",
+            ": assaporata, gustata"
+        ],
+        "214": [
+            "sotto",
+            "sotto"
+        ],
+        "215": [
+            "il",
+            "il"
+        ],
+        "216": [
+            "ciliegio",
+            ": cherry tree",
+            ": Albero da frutto",
+            ": albero delle ciliegie, pianta di ciliegia"
+        ],
+        "217": [
+            "in",
+            "in"
+        ],
+        "218": [
+            "fiore",
+            ": blossoming cherry tree",
+            ": pianta fiorita",
+            ": fioritura, bocciolo"
+        ],
+        "219": [
+            "riaffiorò",
+            ": resurfaced again",
+            ": ricomparve, tornò alla mente",
+            ": rispuntò, riemergendo"
+        ],
+        "220": [
+            "ancora,",
+            "ancora,"
+        ],
+        "221": [
+            "al",
+            "al"
+        ],
+        "222": [
+            "pensiero",
+            ": thought",
+            ": Ricordo, riflessione mentale",
+            ": ricordo, idea"
+        ],
+        "223": [
+            "del",
+            "del"
+        ],
+        "224": [
+            "momento",
+            "momento"
+        ],
+        "225": [
+            "in",
+            "in"
+        ],
+        "226": [
+            "cui",
+            "cui"
+        ],
+        "227": [
+            "si",
+            "si"
+        ],
+        "228": [
+            "erano",
+            "erano"
+        ],
+        "229": [
+            "innamorati;",
+            ": fell in love",
+            ": Fell in love",
+            ": presi d'amore, perdutamente coinvolti"
+        ],
+        "230": [
+            "quel",
+            "quel"
+        ],
+        "231": [
+            "momento",
+            "momento"
+        ],
+        "232": [
+            "in",
+            "in"
+        ],
+        "233": [
+            "cui",
+            "cui"
+        ],
+        "234": [
+            "avevano",
+            "avevano"
+        ],
+        "235": [
+            "capito",
+            "capito"
+        ],
+        "236": [
+            "che",
+            "che"
+        ],
+        "237": [
+            "erano",
+            "erano"
+        ],
+        "238": [
+            "fatti",
+            "fatti"
+        ],
+        "239": [
+            "l'uno",
+            ": one for the",
+            ": per l'altro",
+            ": l'altro, l'individuo"
+        ],
+        "240": [
+            "per",
+            "per"
+        ],
+        "241": [
+            "l'altra.",
+            ": for each other",
+            ": l'altro individuo",
+            ": per l'una\nl'una per l'altra"
+        ],
+        "242": [
+            "E",
+            "E"
+        ],
+        "243": [
+            "così,",
+            "così,"
+        ],
+        "244": [
+            "con",
+            "con"
+        ],
+        "245": [
+            "le",
+            "le"
+        ],
+        "246": [
+            "valigie",
+            ": suitcases",
+            ": Bagagli pronti",
+            ": bauli, borse da viaggio"
+        ],
+        "247": [
+            "pronte",
+            ": ready",
+            ": preparate, fatte",
+            ": preparate, sistemate"
+        ],
+        "248": [
+            "e",
+            "e"
+        ],
+        "249": [
+            "i",
+            "i"
+        ],
+        "250": [
+            "cuori",
+            ": hearts",
+            ": sentimenti amorosi",
+            ": anime, spiriti"
+        ],
+        "251": [
+            "pieni",
+            ": full",
+            ": colmi di amore",
+            ": colmi, carichi"
+        ],
+        "252": [
+            "d'amore,",
+            ": of love",
+            ": pieni di amore",
+            ": di affetto, di passione"
+        ],
+        "253": [
+            "Nicholas",
+            ": Nicholas and Susie leave",
+            ": Nicolas parte",
+            ": Nico, Niccolò"
+        ],
+        "254": [
+            "e",
+            "e"
+        ],
+        "255": [
+            "Susie",
+            ": Nicholas and Susie leave",
+            ": Nicholas' compagna",
+            ": Suzanne, Susan"
+        ],
+        "256": [
+            "part",
+            ": leave",
+            ": partirono",
+            ": partono, si mettono in viaggio"
+        ]
+    }
+}

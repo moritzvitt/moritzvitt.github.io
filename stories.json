@@ -1,1237 +1,1025 @@
 {
-    "italian": "Nicholas era un giovane ragazzo vivace e pieno di passione. Un giorno in primavera, incontrò Susie in un giardino colorato di fiori. Susie, con i suoi occhi scintillanti e un sorriso luminoso, conquistò subito il cuore di Nicholas.\n\nMentre osservavano insieme le libellule danzare sull'acqua, Nicholas gli disse: \"Sei come una libellula, bella e libera.\" Susie rispose sorridendo dolcemente: \"E tu sei come la mia acqua, senza la quale non potrei volare.\"\n\nI due iniziarono a passare molto tempo insieme, e si innamorarono profondamente. Un giorno, sotto un albero di ciliegio in fiore, Nicholas fece un passo coraggioso e baciò Susie. Conseguentemente, le guance di Susie si tinteggiarono del color ciliegia, e si accorse di quanto fosse innamorata di Nicholas.\n\nDopo quel bacio, decisero di pianificare un viaggio insieme. Nicholas suggerì di andare in Francia. \"Posso immaginarmi già a camminare per i pittoreschi vicoli di Parigi con te al mio fianco,\" disse.\n\nMentre preparavano le valigie, scoppio' una disputa su chi avrebbe dovuto portare il dentifricio. Nicholas suggerì che ognuno dovesse portare il proprio, mentre Susie sostenne che ne bastasse uno per entrambi.\n\n\"Se portiamo due dentifrici, avremo più spazio per i cioccolatini francesi!\" esclamò Nicholas, risolvendo la lite con un brillante espediente che fece ridere Susie fino alle lacrime.\n\nQuella risata degustata sotto il ciliegio in fiore riaffiorò ancora, al pensiero del momento in cui si erano innamorati; quel momento in cui avevano capito che erano fatti l'uno per l'altra. E così, con le valigie pronte e i cuori pieni d'amore, Nicholas e Susie part",
+    "turkish": "Bir gün, yabancı bir adam İstanbul'da bir kafeye gitmeye karar verdi. Adı Tom'du. Tom Amerikalıydı ve çok az Türkçe konuşabiliyordu.\n\nTom kafeye vardığında, \"Merhaba!\" dedi. Garson yanına geldi ve \"Hoş geldin!\" dedi. \"Biraz Türkçe konuşabilirim\" dedi Tom. Garson gülümsedi. \"Çok güzel!\" dedi.\n\nGarson, Tom'a menüyü verdi. Ancak Tom, menüyü okumakta zorlandı. \"Baklava\" kelimesini tanıdı. Baklavayı çok seviyordu. Ama \"çay\" kelimesini bilmiyordu. \"Çay ne?\" diye sordu. Garson, “Çay, Türklerin çok sevdiği bir içecektir.” dedi.\n\nTom, \"Tamam, bir çay ve bir baklava alayım\" dedi. Garson gülümsedi ve \"Çok iyi bir seçim!\" dedi.\n\nBiraz sonra, garson çayı ve baklavayı getirdi. Ancak Tom çayı baklavadan önce içmek istedi. Çayın ucunda tüm tatlılar gibi bir kaşık bekliyordu. Tom bu kaşığı çayını karıştırmak için kullandı.\n\nHerkes Tom'a bakıyordu. Bir adam gülerek ona, \"Türkiye'de çayı kaşıkla karıştırmayız\" dedi. Tom kıpkırmızı oldu ama sonra herkesle birlikte güldü.\n\nTom o gün, çayı nasıl içmesi gerektiğini öğrendi. Ve daha da önemlisi, biraz daha Türkçe öğrendi. Tom kafeden ayrılırken, herkese \"Hoşça kal!\" dedi. Herkes ona dönüş yolunda iyi şanslar diledi.\n\nBu hikayenin sonuna geldik",
     "translations": {
         "1": [
-            "Nicholas",
-            ": Nicholas was",
-            ": Vivace ragazzo appassionato",
-            ": Nicolò, Niccolò"
+            "Bir",
+            ": A",
+            ": Tekil belirleme",
+            ": Tek, adet"
         ],
         "2": [
-            "era",
-            "era"
+            "gün,",
+            ": a day",
+            ": Belirli zaman\n",
+            ": zaman, dönem"
         ],
         "3": [
-            "un",
-            "un"
+            "yabancı",
+            ": a foreign man",
+            ": tanıdık olmayan kişi\n",
+            ": tanımadık, bilinmeyen"
         ],
         "4": [
-            "giovane",
-            "giovane"
+            "bir",
+            ": a, one",
+            ": \"bir\" = \"a\"",
+            ": tek, tekil"
         ],
         "5": [
-            "ragazzo",
-            "ragazzo"
+            "adam",
+            ": a man",
+            ": Birini tanımlıyor",
+            ": erkek, birey"
         ],
         "6": [
-            "vivace",
-            ": lively",
-            ": energico, vivido, brillante",
-            ": energico, frizzante"
+            "İstanbul'da",
+            ": in Istanbul",
+            ": Adamın konumu\n",
+            ": Metropolde, büyük şehirde"
         ],
         "7": [
-            "e",
-            "e"
+            "bir",
+            ": a",
+            ": \"one\"",
+            ": tek, tekil"
         ],
         "8": [
-            "pieno",
-            "pieno"
+            "kafeye",
+            ": to a cafe",
+            ": \"to a cafe\"",
+            ": kıraathaneye, çay ocağına"
         ],
         "9": [
-            "di",
-            "di"
+            "gitmeye",
+            ": to go to",
+            ": Kafeye gitmek\n",
+            ": seyahat etmeye, yolculuk yapmaya"
         ],
         "10": [
-            "passione.",
-            ": passion",
-            ": Entusiasmo intenso",
-            ": entusiasmo, fervore"
+            "karar",
+            ": decided to go",
+            ": Bir karar verme",
+            ": hüküm, karşılaştırma"
         ],
         "11": [
-            "Un",
-            "Un"
+            "verdi.",
+            ": decided to go",
+            ": Karar verme durumu",
+            ": kararlaştı, belirledi"
         ],
         "12": [
-            "giorno",
-            "giorno"
+            "Adı",
+            ": His name",
+            ": İsim belirtme",
+            ": İsmi, İsim\n"
         ],
         "13": [
-            "in",
-            "in"
+            "Tom'du.",
+            ": Was Tom",
+            ": \"His name was Tom.\"\n",
+            ": İsmi Tom'du, Tom isimliydi"
         ],
         "14": [
-            "primavera,",
-            ": spring",
-            ": stagione dei fiori",
-            ": stagione dei fiori, periodo di rinascita"
+            "Tom",
+            ": Tom was American",
+            ": Tom Amerikalı, Türkçeyi az konuşuyor.",
+            ": Amerikalıydı, ABD'liydi\nkonuşabiliyord"
         ],
         "15": [
-            "incontrò",
-            ": met",
-            ": Conobbe, si imbatté",
-            ": si imbatté in, incrociò"
+            "Amerikalıydı",
+            ": He was American",
+            ": Tom American.",
+            ": ABD'liydi, Amerika'dan geliyordu"
         ],
         "16": [
-            "Susie",
-            ": Susie",
-            ": Incontrò una donna",
-            ": Suzanne, Susanna"
+            "ve",
+            "ve"
         ],
         "17": [
-            "in",
-            "in"
+            "çok",
+            ": very",
+            ": \"oldukça az\"",
+            ": bir hayli, oldukça, epeyce"
         ],
         "18": [
-            "un",
-            "un"
+            "az",
+            ": very little",
+            ": Tom's limited Turkish",
+            ": kıt, nadir"
         ],
         "19": [
-            "giardino",
-            ": a colorful garden",
-            ": Spazio verde piantumato",
-            ": parco, orto"
+            "Türkçe",
+            ": Turkish",
+            ": Konuşulan dil",
+            ": Dil, lisan"
         ],
         "20": [
-            "colorato",
-            ": colored with flowers",
-            ": pieno di colori",
-            ": vivace, ricco di colori"
+            "konuşabiliyordu.",
+            ": could speak Turkish",
+            ": Tom's limited Turkish",
+            ": söyleyebiliyordu, anlatabiliyordu, ifade"
         ],
         "21": [
-            "di",
-            "di"
+            "Tom",
+            ": When Tom arrived",
+            ": Kafee gelen kişi",
+            ": \"ulaştığında\", \"geldiğinde\""
         ],
         "22": [
-            "fiori.",
-            ": colored with flowers",
-            ": piante in fiore",
-            ": boccioli, fioriture"
+            "kafeye",
+            ": to the cafe",
+            ": Tom'a geldi",
+            ": kahveye, meyhaneye"
         ],
         "23": [
-            "Susie,",
-            ": Susie",
-            ": Una ragazza affascinante",
-            ": La ragazza, L'incantevole giovane"
+            "vardığında,",
+            ": when Tom arrived",
+            ": \"when arrived,\"",
+            ": ulaştığında, geldiğinde"
         ],
         "24": [
-            "con",
-            "con"
+            "\"Merhaba!\"",
+            ": Hello!",
+            ": Selamlaşma ifadesi",
+            ": Selam, Alo"
         ],
         "25": [
-            "i",
-            "i"
+            "dedi.",
+            ": he said",
+            ": He/she said.",
+            ": Güzellik ve çekicilik"
         ],
         "26": [
-            "suoi",
-            "suoi"
+            "Garson",
+            ": Waiter",
+            ": Servis elemanı",
+            ": Aşçıbaşı, hizmetçi"
         ],
         "27": [
-            "occhi",
-            "occhi"
+            "yanına",
+            ": to your side",
+            ": Waiter's proximity",
+            ": yakınına, berisine"
         ],
         "28": [
-            "scintillanti",
-            ": sparkling",
-            ": Luccicanti, brillanti",
-            ": luccicanti, brillanti"
+            "geldi",
+            ": came to",
+            ": Came to him",
+            ": yaklaştı, ulaştı"
         ],
         "29": [
-            "e",
-            "e"
+            "ve",
+            "ve"
         ],
         "30": [
-            "un",
-            "un"
+            "\"Hoş",
+            ": Welcome",
+            ": Welcome greeting",
+            ": Memnuniyetle, Güzel"
         ],
         "31": [
-            "sorriso",
-            ": bright smile",
-            ": espressione felice",
-            ": risata luminosa, ghigno radioso"
+            "geldin!\"",
+            ": Welcome",
+            ": \"Welcome!\"",
+            ": hoş bulduk, merhaba"
         ],
         "32": [
-            "luminoso,",
-            ": bright",
-            ": molto brillante",
-            ": radioso, brillante"
+            "dedi.",
+            ": he/she said",
+            ": He said.",
+            ": Mutlu - Neşeli"
         ],
         "33": [
-            "conquistò",
-            ": won over",
-            ": sedusse immediatamente",
-            ": affascinò, sedusse"
+            "\"Biraz",
+            ": A little",
+            ": \"Little bit\"",
+            ": Az, kısmen"
         ],
         "34": [
-            "subito",
-            "subito"
+            "Türkçe",
+            ": Turkish",
+            ": Tom'un dil bilgisi",
+            ": Konuşmak, konuşabilme\nBiraz, azıcık"
         ],
         "35": [
-            "il",
-            "il"
+            "konuşabilirim\"",
+            ": I can speak",
+            ": Speak Turkish.",
+            ": sohbet edebilirim, muhabbet edebilirim"
         ],
         "36": [
-            "cuore",
-            "cuore"
+            "dedi",
+            ": said Tom",
+            ": Tom said",
+            ": belirtti, ifade etti, açıkladı"
         ],
         "37": [
-            "di",
-            "di"
+            "Tom.",
+            ": Tom said",
+            ": Tom Türkçe konuşabiliyor.",
+            ": Az Türkçe konuşabiliyorum, Bir miktar Türkçe kon"
         ],
         "38": [
-            "Nicholas.",
-            ": Nicholas's heart",
-            ": persona amata",
-            ": Niccolò, Nicola"
+            "Garson",
+            ": Waiter",
+            ": Hizmetçi gülümsedi.",
+            ": Hizmetçi, Servis elemanı"
         ],
         "39": [
-            "Mentre",
-            "Mentre"
+            "gülümsedi.",
+            ": Waiter smiled.",
+            ": Waiter smiled.",
+            ": tebessüm etti, sırıttı"
         ],
         "40": [
-            "osservavano",
-            ": they were observing",
-            ": Guardavano attentamente",
-            ": contemplavano, scrutavano"
+            "\"Çok",
+            ": Very",
+            ": Aşırı derecede güzel",
+            ": Aşırı, fazla"
         ],
         "41": [
-            "insieme",
-            "insieme"
+            "güzel!\"",
+            ": Very beautiful",
+            ": Daha fazla övgü",
+            ": hoş, çekici"
         ],
         "42": [
-            "le",
-            "le"
+            "dedi.",
+            ": he/she said",
+            ": \"he said.\"",
+            ": mutlu - neşeli"
         ],
         "43": [
-            "libellule",
-            ": dragonfly",
-            ": Insetti volanti colorati",
-            ": demoiselle, donzella volante"
+            "Garson,",
+            ": Waiter",
+            ": Tom'a hizmet\n",
+            ": Servis elemanı, hizmetli"
         ],
         "44": [
-            "danzare",
-            ": to dance",
-            ": muoversi leggermente",
-            ": svolazzare, volteggiare"
+            "Tom'a",
+            ": to Tom",
+            ": Garson Tom'a servis ediyor.",
+            ": sunulan, verilen"
         ],
         "45": [
-            "sull'acqua,",
-            ": on the water",
-            ": sopra l'acqua",
-            ": sopra il lago, al di sopra del fiume"
+            "menüyü",
+            ": the menu",
+            ": Tom'a verildi\n",
+            ": yemek listesi, yemek kartı"
         ],
         "46": [
-            "Nicholas",
-            ": While they watched the dragonflies dance on the water, Nicholas told him: You are like a dragon",
-            ": Personaggio parlante",
-            ": Niccolò, Nicola"
+            "verdi.",
+            ": gave",
+            ": Verdi - Sunum yaptı",
+            ": sundu, takdim etti"
         ],
         "47": [
-            "gli",
-            "gli"
+            "Ancak",
+            ": But",
+            ": Ama, fakat, yine de",
+            ": Yalnız, Fakat"
         ],
         "48": [
-            "disse:",
-            "disse:"
+            "Tom,",
+            ": But Tom",
+            ": Tom zorlandı.",
+            ": güçlük çekmek, mücadele etmek"
         ],
         "49": [
-            "\"Sei",
-            "\"Sei"
+            "menüyü",
+            ": the menu",
+            ": Tom'un okuması",
+            ": yemek listesini, yemek kartını"
         ],
         "50": [
-            "come",
-            "come"
+            "okumakta",
+            ": reading the",
+            ": reading menu",
+            ": zorluk çekmek, güçlük çekmek, sıkınt"
         ],
         "51": [
-            "una",
-            "una"
+            "zorlandı.",
+            ": struggled",
+            ": Struggled to read",
+            ": güçlük çekti, sıkıntı yaşadı"
         ],
         "52": [
-            "libellula,",
-            ": dragonfly",
-            ": Insetto volante",
-            ": anisottero, donzella volante"
+            "\"Baklava\"",
+            ": Recognized the word \"Baklava\".",
+            ": Tanıma işlemi\n",
+            ": Dilim tatlı, şerbetli tatlı"
         ],
         "53": [
-            "bella",
-            "bella"
+            "kelimesini",
+            ": its word",
+            ": Tanıma eylemi",
+            ": farkında, bilir, tanır"
         ],
         "54": [
-            "e",
-            "e"
+            "tanıdı.",
+            ": recognized",
+            ": Bir yemeği biliyor",
+            ": bildi, tanımladı"
         ],
         "55": [
-            "libera.\"",
-            ": free",
-            ": senza restrizioni",
-            ": indipendente, autonoma"
+            "Baklavayı",
+            ": The baklava",
+            ": Tatlıyı çok seviyordu.",
+            ": Tatlıyı, şekerliyi"
         ],
         "56": [
-            "Susie",
-            ": Susie",
-            ": Personaggio femminile",
-            ": Lei, la ragazza"
+            "çok",
+            ": very much",
+            ": Aşırı derecede seviyor",
+            ": fazlasıyla, aşırı derecede"
         ],
         "57": [
-            "rispose",
-            ": replied",
-            ": Susie rispose",
-            ": ribatté, replicò"
+            "seviyordu.",
+            ": he loved",
+            ": \"Loved baklava a lot.\"",
+            ": hoşlanıyordu, bayılıyordu, düşkündü"
         ],
         "58": [
-            "sorridendo",
-            ": smiling sweetly",
-            ": rispondendo con sorriso",
-            ": con un sorriso, ghignando dolcemente"
+            "Ama",
+            ": But",
+            ": Ama doesn't know \"tea\".",
+            ": Fakat, Ancak"
         ],
         "59": [
-            "dolcemente:",
-            ": sweetly",
-            ": sorrise gentilmente",
-            ": teneramente, con dolcezza"
+            "\"çay\"",
+            ": tea",
+            ": Bilinmeyen içecek",
+            ": nehir, akarsu"
         ],
         "60": [
-            "\"E",
-            "\"E"
+            "kelimesini",
+            ": its word",
+            ": Bilme durumu",
+            ": sözcüğünü, terimini"
         ],
         "61": [
-            "tu",
-            "tu"
+            "bilmiyordu.",
+            ": did not know",
+            ": Didn't know \"tea\".",
+            ": farkında değildi, haberi yoktu"
         ],
         "62": [
-            "sei",
-            "sei"
+            "\"Çay",
+            ": Tea",
+            ": Türk çayı",
+            ": Demlik, sürahi"
         ],
         "63": [
-            "come",
-            "come"
+            "ne?\"",
+            "ne?\""
         ],
         "64": [
-            "la",
-            "la"
+            "diye",
+            ": said",
+            ": \"asked saying\"",
+            ": Dolayısıyla, bu yüzden"
         ],
         "65": [
-            "mia",
-            "mia"
+            "sordu.",
+            ": asked",
+            ": \"asked.\"",
+            ": istemek, talep etmek"
         ],
         "66": [
-            "acqua,",
-            "acqua,"
+            "Garson,",
+            ": Waiter",
+            ": Türkler çay sever.",
+            ": Servis elemanı, hizmetli"
         ],
         "67": [
-            "senza",
-            "senza"
+            "“Çay,",
+            ": Tea",
+            ": Türklerin favori içeceği",
+            ": Dem, semaver suyu"
         ],
         "68": [
-            "la",
-            "la"
+            "Türklerin",
+            ": of the Turks",
+            ": Türklerin favorisi",
+            ": Anadolu halkının, Osmanlıların"
         ],
         "69": [
-            "quale",
-            "quale"
+            "çok",
+            ": much",
+            ": Aşırı derecede\n",
+            ": fazlasıyla, aşırı derecede"
         ],
         "70": [
-            "non",
-            "non"
+            "sevdiği",
+            ": loved very much",
+            ": Loved by Turks",
+            ": hoşlandığı, tercih ettiği"
         ],
         "71": [
-            "potrei",
-            "potrei"
+            "bir",
+            ": a",
+            ": Turkish love tea",
+            ": içecek, sıvı"
         ],
         "72": [
-            "volare.\"",
-            ": to fly",
-            ": Sopravvivere, progredire, prosperare",
-            ": planare, librarsi"
+            "içecektir.”",
+            ": is a drink",
+            ": Turkish preferred drink",
+            ": içki, meşrubat"
         ],
         "73": [
-            "I",
-            "I"
+            "dedi.",
+            ": said",
+            ": Türklerin çay sevgisi",
+            ": ifade etti, belirtti"
         ],
         "74": [
-            "due",
-            "due"
+            "Tom,",
+            ": Tom",
+            ": Tom sipariş veriyor.",
+            ": sipariş etmek, almak"
         ],
         "75": [
-            "iniziarono",
-            ": they both started",
-            ": Cominciarono",
-            ": cominciarono, presero a"
+            "\"Tamam,",
+            ": Okay",
+            ": Tom sipariş veriyor",
+            ": Peki, Onay"
         ],
         "76": [
-            "a",
-            "a"
+            "bir",
+            ": a",
+            ": Tom orders\n",
+            ": tek, yalnız"
         ],
         "77": [
-            "passare",
-            "passare"
+            "çay",
+            ": tea",
+            ": Sipariş içeceği",
+            ": demlik, demliğin suyu"
         ],
         "78": [
-            "molto",
-            "molto"
+            "ve",
+            "ve"
         ],
         "79": [
-            "tempo",
-            "tempo"
+            "bir",
+            ": a",
+            ": Ordering food",
+            ": tek, yalnız"
         ],
         "80": [
-            "insieme,",
-            "insieme,"
+            "baklava",
+            ": a baklava",
+            ": Tatlı siparişi",
+            ": tatlı, şerbetli yemek"
         ],
         "81": [
-            "e",
-            "e"
+            "alayım\"",
+            ": I'll have",
+            ": \"I'll have\"",
+            ": satın alayım, edineyim"
         ],
         "82": [
-            "si",
-            "si"
+            "dedi.",
+            ": said",
+            ": Tom sipariş verdi.",
+            ": söyledi, belirtti, ifade etti"
         ],
         "83": [
-            "innamorarono",
-            ": fell in love",
-            ": Fell in love",
-            ": si affezionarono intensamente, si ambèdirono profondamente"
+            "Garson",
+            ": Waiter",
+            ": Waiter smiled",
+            ": Aşçı, Hizmetli"
         ],
         "84": [
-            "profondamente.",
-            ": deeply in love",
-            ": Intensamente innamorati",
-            ": intensamente, visceralmente"
+            "gülümsedi",
+            ": smiled",
+            ": Waiter smiled",
+            ": tebessüm etti, sırıttı"
         ],
         "85": [
-            "Un",
-            "Un"
+            "ve",
+            "ve"
         ],
         "86": [
-            "giorno,",
-            "giorno,"
+            "\"Çok",
+            ": Very",
+            ": Çok olumlu anlamında",
+            ": Fazla, aşırı"
         ],
         "87": [
-            "sotto",
-            "sotto"
+            "iyi",
+            ": very good",
+            ": Very good choice",
+            ": Mükemmel, harika"
         ],
         "88": [
-            "un",
-            "un"
+            "bir",
+            ": a",
+            ": Very good choice!",
+            ": mükemmel, harika"
         ],
         "89": [
-            "albero",
-            ": tree",
-            ": Pianta grande",
-            ": pianta, vegetazione"
+            "seçim!\"",
+            ": Very good choice",
+            ": Excellent choice!",
+            ": tercih, seçenek"
         ],
         "90": [
-            "di",
-            "di"
+            "dedi.",
+            ": he/she said",
+            ": Söyledi anlamında",
+            ": Mutlu - Neşeli"
         ],
         "91": [
-            "ciliegio",
-            ": cherry tree",
-            ": Albero da frutto",
-            ": albero di ciliegie, pianta di ciliegie"
+            "Biraz",
+            ": A little later",
+            ": Kısa bir süre",
+            ": Kısa süre, az sonra"
         ],
         "92": [
-            "in",
-            "in"
+            "sonra,",
+            ": a bit later",
+            ": Daha sonra",
+            ": ardından, müteakip"
         ],
         "93": [
-            "fiore,",
-            ": in bloom",
-            ": in fioritura",
-            ": bocciolo, gemma"
+            "garson",
+            ": the waiter",
+            ": Restoran çalışanı",
+            ": Servis elemanı, kafe çalışanı"
         ],
         "94": [
-            "Nicholas",
-            ": One day, under a blooming cherry tree, Nicholas took a brave step and kissed Susie.",
-            ": Protagonista maschile",
-            ": Nicolò, Niccolò"
+            "çayı",
+            ": the tea",
+            ": Servis edilen içecek",
+            ": demlemeyi, içeceği"
         ],
         "95": [
-            "fece",
-            ": made a",
-            ": fece = ha fatto",
-            ": eseguì, realizzò"
+            "ve",
+            "ve"
         ],
         "96": [
-            "un",
-            "un"
+            "baklavayı",
+            ": the baklava",
+            ": Tatlı servisi\n",
+            ": tatlıyı, şerbetliyi"
         ],
         "97": [
-            "passo",
-            "passo"
+            "getirdi.",
+            ": brought it",
+            ": Servis yaptı.",
+            ": sundu, ikram etti"
         ],
         "98": [
-            "coraggioso",
-            ": brave",
-            ": Ardito, audace",
-            ": Ardito, intrepido"
+            "Ancak",
+            ": But",
+            ": Fakat, ama, yine de",
+            ": Yalnızca, sadece"
         ],
         "99": [
-            "e",
-            "e"
+            "Tom",
+            ": But Tom wanted",
+            ": Çay içme tercihi",
+            ": içmek - yudumlamak, tüketmek, içine almak"
         ],
         "100": [
-            "baciò",
-            ": kissed",
-            ": ha baciato",
-            ": sfiorò con un bacio, coprì di baci"
+            "çayı",
+            ": the tea",
+            ": Tom's tea",
+            ": demli, dem, infüzyon"
         ],
         "101": [
-            "Susie.",
-            ": kissed Susie.",
-            ": Ammirata ragazza",
-            ": la ragazza, la giovane donna"
+            "baklavadan",
+            ": before the baklava",
+            ": \"before baklava\"",
+            ": tatlıdan, şerbetliden"
         ],
         "102": [
-            "Conseguentemente,",
-            ": Consequently,",
-            ": Come risultato",
-            ": Pertanto, di conseguenza"
+            "önce",
+            ": before",
+            ": \"before dessert\"",
+            ": ilk, evvel"
         ],
         "103": [
-            "le",
-            "le"
+            "içmek",
+            ": to drink",
+            ": Tom's drinking preference",
+            ": tüketmek, yudumlamak"
         ],
         "104": [
-            "guance",
-            ": Susie's cheeks",
-            ": Faccia rossa",
-            ": fianchi del viso, gote"
+            "istedi.",
+            ": wanted to",
+            ": Tom'un tercihi",
+            ": arzu etti, talep etti, dilemek"
         ],
         "105": [
-            "di",
-            "di"
+            "Çayın",
+            ": Tea's",
+            ": Tatlı kaşıklama işlemi",
+            ": Yokuş, eğim"
         ],
         "106": [
-            "Susie",
-            ": Susie's cheeks",
-            ": Protagonista innamorata",
-            ": la ragazza, la giovane donna"
+            "ucunda",
+            ": at the end",
+            ": \"at the end\"",
+            ": sonunda, nihayetinde"
         ],
         "107": [
-            "si",
-            "si"
+            "tüm",
+            ": all",
+            ": Bütün tatlılar\n",
+            ": bütün, hepsi"
         ],
         "108": [
-            "tinteggiarono",
-            ": blushed cherry red",
-            ": Divennero colorate",
-            ": si colorarono, si tingevano"
+            "tatlılar",
+            ": all the sweets",
+            ": Bekleyen yiyecekler",
+            ": şekerlemeler, tatlı şeyler"
         ],
         "109": [
-            "del",
-            "del"
+            "gibi",
+            ": like",
+            ": \"like all sweets\"",
+            ": örneğin, sanki"
         ],
         "110": [
-            "color",
-            ": cherry color",
-            ": Rosso intenso",
-            ": tinta, pigmentazione"
+            "bir",
+            ": a spoon",
+            ": Beklenen tatlılık",
+            ": Kaşık, kepçe\nTatlılar, şekerlemeler"
         ],
         "111": [
-            "ciliegia,",
-            ": cherry color",
-            ": colore rosso intenso",
-            ": frutto rosso, amarena"
+            "kaşık",
+            ": a spoon",
+            ": Tatlı servisi",
+            ": çatal, kepçe"
         ],
         "112": [
-            "e",
-            "e"
+            "bekliyordu.",
+            ": was waiting",
+            ": Waiting on spoon.",
+            ": umuyordu, beklemekteydi"
         ],
         "113": [
-            "si",
-            "si"
+            "Tom",
+            ": Tom",
+            ": Çay karıştırma aracı",
+            ": kullanmak, yararlanmak"
         ],
         "114": [
-            "accorse",
-            ": realized",
-            ": Si rese conto",
-            ": si rese conto, si accertò"
+            "bu",
+            ": this",
+            ": Kaşık kullanımı",
+            ": şu, o"
         ],
         "115": [
-            "di",
-            "di"
+            "kaşığı",
+            ": the spoon",
+            ": Çay karıştırma aracı",
+            ": çatalı, kepçeyi"
         ],
         "116": [
-            "quanto",
-            "quanto"
+            "çayını",
+            ": his tea",
+            ": Tom'un çayı",
+            ": demlenmişini, içeceğini"
         ],
         "117": [
-            "fosse",
-            "fosse"
+            "karıştırmak",
+            ": to stir",
+            ": Çayı karıştırmak",
+            ": bulandırmak, karışım yapmak"
         ],
         "118": [
-            "innamorata",
-            ": in love",
-            ": Ama profondamente",
-            ": presa da Nicholas, infatuata di Nicholas"
+            "için",
+            ": to stir",
+            ": \"to stir\"",
+            ": amacıyla, niyetinde"
         ],
         "119": [
-            "di",
-            "di"
+            "kullandı.",
+            ": used it.",
+            ": Tom used spoon.",
+            ": kullanmak, yararlanmak, faydalanmak"
         ],
         "120": [
-            "Nicholas.",
-            ": of Nicholas.",
-            ": Susie's love interest",
-            ": Nico, Niccolò"
+            "Herkes",
+            ": Everyone",
+            ": Herkesi izliyor",
+            ": Bütün, her biri"
         ],
         "121": [
-            "Dopo",
-            "Dopo"
+            "Tom'a",
+            ": to Tom",
+            ": Odak noktası Tom",
+            ": Tom'a karşı ve Tom'a doğru"
         ],
         "122": [
-            "quel",
-            "quel"
+            "bakıyordu.",
+            ": was looking",
+            ": \"Looking at Tom\"",
+            ": gözlüyordu, izliyordu"
         ],
         "123": [
-            "bacio,",
-            ": kiss",
-            ": After that kiss",
-            ": sferzata d'amore, scambio di affetto"
+            "Bir",
+            ": A",
+            ": Kültürel farklılık",
+            ": Kişi, adam"
         ],
         "124": [
-            "decisero",
-            ": they decided",
-            ": They decided",
-            ": optarono, scelsero"
+            "adam",
+            ": a man",
+            ": Kültürel farklılık\n",
+            ": erkek, birey"
         ],
         "125": [
-            "di",
-            "di"
+            "gülerek",
+            ": laughing",
+            ": Adamın neşesi\n",
+            ": neşeyle, keyifle"
         ],
         "126": [
-            "pianificare",
-            ": to plan",
-            ": Organizzare in anticipo",
-            ": programmare, organizzare"
+            "ona,",
+            ": to him",
+            ": Cultural difference explanation",
+            ": kendisine, buna"
         ],
         "127": [
-            "un",
-            "un"
+            "\"Türkiye'de",
+            ": in Turkey",
+            ": Çay karıştırma yöntemi",
+            ": Türkiye'deki, Türkiye içinde."
         ],
         "128": [
-            "viaggio",
-            "viaggio"
+            "çayı",
+            ": the tea",
+            ": Tea stirring method",
+            ": demlemeyi, infüzyonu"
         ],
         "129": [
-            "insieme.",
-            "insieme."
+            "kaşıkla",
+            ": with a spoon",
+            ": Çay karıştırma yöntemi",
+            ": Karıştırmak için, Sallamak için"
         ],
         "130": [
-            "Nicholas",
-            ": Nicholas",
-            ": Nicholas suggerì",
-            ": Nico, Niccolò"
+            "karıştırmayız\"",
+            ": we don't stir",
+            ": We don't stir",
+            ": bulaştırmayız, karışım yapmayız"
         ],
         "131": [
-            "suggerì",
-            ": Nicholas suggested",
-            ": Nicholas propose",
-            ": proposto, suggerito"
+            "dedi.",
+            ": he said",
+            ": Kültürel farklılıklar",
+            ": söyledi, belirtti, ifade etti"
         ],
         "132": [
-            "di",
-            "di"
+            "Tom",
+            ": Tom turned bright red",
+            ": Utandı, sonra güldü.",
+            ": mahcup oldu, utançtan kızardı"
         ],
         "133": [
-            "andare",
-            "andare"
+            "kıpkırmızı",
+            ": bright red",
+            ": Tom blushed deeply.",
+            ": bütünüyle kırmızı, tamamen kırmızı"
         ],
         "134": [
-            "in",
-            "in"
+            "oldu",
+            ": became bright red",
+            ": Tom blushed",
+            ": kızardı, kızarıklık oldu"
         ],
         "135": [
-            "Francia.",
-            ": France",
-            ": andare in Francia",
-            ": Terra del vino, Repubblica francese"
+            "ama",
+            ": but",
+            ": Utangaçlık sonrası neşe",
+            ": fakat, ancak"
         ],
         "136": [
-            "\"Posso",
-            "\"Posso"
+            "sonra",
+            ": but then",
+            ": \"Afterwards\"",
+            ": ardından, daha sonra"
         ],
         "137": [
-            "immaginarmi",
-            ": imagine myself",
-            ": Visualizzare mentalmente",
-            ": visualizzare me stesso, figurarmi"
+            "herkesle",
+            ": with everyone",
+            ": with everyone",
+            ": herkesin yanında, bütün insanlarla"
         ],
         "138": [
-            "già",
-            "già"
+            "birlikte",
+            ": with everyone",
+            ": Hepsiyle eşzamanlı\n",
+            ": Hep beraber, beraber, beraberce"
         ],
         "139": [
-            "a",
-            "a"
+            "güldü.",
+            ": laughed with everyone",
+            ": Tom laughed too.",
+            ": kahkaha attı, gülme krizine girdi"
         ],
         "140": [
-            "camminare",
-            ": to walk",
-            ": Andare a piedi",
-            ": passeggiare, vagare"
+            "Tom",
+            ": Tom",
+            ": Tom çay içmeyi öğrendi.",
+            ": öğrenmek, kavramak\ngün, gün boyunca"
         ],
         "141": [
-            "per",
-            "per"
+            "o",
+            "o"
         ],
         "142": [
-            "i",
-            "i"
+            "gün,",
+            ": that day",
+            ": O gün öğrenme",
+            ": zaman, dönem"
         ],
         "143": [
-            "pittoreschi",
-            ": picturesque alleys",
-            ": scenici, artisticamente interessanti",
-            ": scenici, suggestivi"
+            "çayı",
+            ": the tea",
+            ": Tom learned tea-drinking.",
+            ": içeceği, tüketeceği"
         ],
         "144": [
-            "vicoli",
-            ": picturesque alleys",
-            ": piccole strade strette",
-            ": stradine, viuzze"
+            "nasıl",
+            ": how to",
+            ": Yöntem öğrenme",
+            ": biçimde, şekilde"
         ],
         "145": [
-            "di",
-            "di"
+            "içmesi",
+            ": to drink it",
+            ": çay içme şekli",
+            ": yudumlaması, tüketmesi"
         ],
         "146": [
-            "Parigi",
-            ": Paris",
-            ": Città francese romantica",
-            ": Città dell'Amore, Capitale Francese"
+            "gerektiğini",
+            ": he should",
+            ": \"needed to\"",
+            ": lazım olduğunu, olması icap ettiğini"
         ],
         "147": [
-            "con",
-            "con"
+            "öğrendi.",
+            ": he learned",
+            ": Tom learned.",
+            ": anladı, kavradı"
         ],
         "148": [
-            "te",
-            "te"
+            "Ve",
+            "Ve"
         ],
         "149": [
-            "al",
-            "al"
+            "daha",
+            ": more",
+            ": Daha fazla, ilaveten",
+            ": fazla, ekstra"
         ],
         "150": [
-            "mio",
-            "mio"
+            "da",
+            "da"
         ],
         "151": [
-            "fianco,\"",
-            ": at my side",
-            ": accanto a me",
-            ": costato, lato"
+            "önemlisi,",
+            ": more importantly",
+            ": 'More importantly,'",
+            ": esas olan, asıl olan"
         ],
         "152": [
-            "disse.",
-            "disse."
+            "biraz",
+            ": a bit more",
+            ": Kısmen daha fazla",
+            ": azıcık, bir miktar"
         ],
         "153": [
-            "Mentre",
-            "Mentre"
+            "daha",
+            ": more",
+            ": \"more\"",
+            ": fazladan, ekstra"
         ],
         "154": [
-            "preparavano",
-            ": were preparing",
-            ": Stavano organizzando",
-            ": allestivano, organizzavano"
+            "Türkçe",
+            ": Turkish",
+            ": Dil öğrenme.",
+            ": Dil, lisan"
         ],
         "155": [
-            "le",
-            "le"
+            "öğrendi.",
+            ": he learned",
+            ": Learned more Turkish.",
+            ": öğrenmek, kavramak, idrak etmek"
         ],
         "156": [
-            "valigie,",
-            ": suitcases",
-            ": Preparazione dei bagagli",
-            ": borsone, trolley"
+            "Tom",
+            ": Tom",
+            ": Kafe'den ayrılıyor",
+            ": Elveda, Güle güle"
         ],
         "157": [
-            "scoppio'",
-            ": broke out",
-            ": Iniziò improvvisamente",
-            ": divampò, si sviluppò"
+            "kafeden",
+            ": from the cafe",
+            ": \"from the cafe\"",
+            ": kahvehaneden, kafeteryadan"
         ],
         "158": [
-            "una",
-            "una"
+            "ayrılırken,",
+            ": when leaving",
+            ": Tom leaving cafe",
+            ": giderken, çıkarken"
         ],
         "159": [
-            "disputa",
-            ": dispute",
-            ": Discussione accesa",
-            ": litigio, polemica"
+            "herkese",
+            ": to everyone",
+            ": everyone to",
+            ": bütün kişilere, tüm insanlara"
         ],
         "160": [
-            "su",
-            "su"
+            "\"Hoşça",
+            ": Goodbye",
+            ": \"Goodbye\"",
+            ": Elveda, Güle güle"
         ],
         "161": [
-            "chi",
-            "chi"
+            "kal!\"",
+            ": Goodbye",
+            ": Elveda demek",
+            ": Güle güle, Allahaısmarladık"
         ],
         "162": [
-            "avrebbe",
-            "avrebbe"
+            "dedi.",
+            ": he/she said",
+            ": Konuşmayı belirtir.",
+            ": Mutlu - Neşeli"
         ],
         "163": [
-            "dovuto",
-            "dovuto"
+            "Herkes",
+            ": Everyone",
+            ": Her insan",
+            ": Bütün, tüm"
         ],
         "164": [
-            "portare",
-            "portare"
+            "ona",
+            ": to him",
+            ": Her to everyone",
+            ": onun, kendisine, buna"
         ],
         "165": [
-            "il",
-            "il"
+            "dönüş",
+            ": return journey",
+            ": geri gelme\n",
+            ": geri dönme, geri gelme"
         ],
         "166": [
-            "dentifricio.",
-            ": toothpaste",
-            ": pasta per denti",
-            ": Pasta per denti, crema dentale"
+            "yolunda",
+            ": on his way back",
+            ": dönüş yolunda\n",
+            ": giderken, dönüşünde"
         ],
         "167": [
-            "Nicholas",
-            ": Nicholas suggested",
-            ": Nicholas suggerì",
-            ": Nico, Nicola"
+            "iyi",
+            ": good",
+            ": İyi dilekler\n",
+            ": olumlu, güzel"
         ],
         "168": [
-            "suggerì",
-            ": Nicholas suggested",
-            ": proposto, consigliato",
-            ": propose, consigliò"
+            "şanslar",
+            ": good luck",
+            ": İyi dilekler.",
+            ": iyi dilekler, iyi temenniler"
         ],
         "169": [
-            "che",
-            "che"
+            "diledi.",
+            ": wished him luck",
+            ": Wished him luck",
+            ": temenni etti, dilekte bulundu"
         ],
         "170": [
-            "ognuno",
-            ": everyone",
-            ": ciascuna persona",
-            ": ciascuno, tutti"
+            "Bu",
+            ": This",
+            ": Bu = this",
+            ": Şu, İşte"
         ],
         "171": [
-            "dovesse",
-            ": should",
-            ": dovesse portare",
-            ": dovrebbe, avrebbe dovuto"
+            "hikayenin",
+            ": of the story",
+            ": \"hikayenin\" - \"of the story\"",
+            ": öykünün, masalın"
         ],
         "172": [
-            "portare",
-            "portare"
+            "sonuna",
+            ": to the end",
+            ": Hikayenin bitişi",
+            ": bitişine, nihayetine"
         ],
         "173": [
-            "il",
-            "il"
-        ],
-        "174": [
-            "proprio,",
-            "proprio,"
-        ],
-        "175": [
-            "mentre",
-            "mentre"
-        ],
-        "176": [
-            "Susie",
-            ": while Susie argued",
-            ": Altra persona",
-            ": la ragazza, la donna"
-        ],
-        "177": [
-            "sostenne",
-            ": argued that",
-            ": argomentò, affermò, dichiarò",
-            ": argomentò, affermò"
-        ],
-        "178": [
-            "che",
-            "che"
-        ],
-        "179": [
-            "ne",
-            "ne"
-        ],
-        "180": [
-            "bastasse",
-            ": one was enough",
-            ": fosse sufficiente",
-            ": fosse sufficiente, andasse bene"
-        ],
-        "181": [
-            "uno",
-            "uno"
-        ],
-        "182": [
-            "per",
-            "per"
-        ],
-        "183": [
-            "entrambi.",
-            "entrambi."
-        ],
-        "184": [
-            "\"Se",
-            "\"Se"
-        ],
-        "185": [
-            "portiamo",
-            ": we bring",
-            ": Noi trasportiamo",
-            ": trasportiamo, conduciamo"
-        ],
-        "186": [
-            "due",
-            "due"
-        ],
-        "187": [
-            "dentifrici,",
-            ": toothpastes",
-            ": tubi di pasta dentifricia",
-            ": pasta per i denti, creme dentali"
-        ],
-        "188": [
-            "avremo",
-            ": we will have",
-            ": we will have",
-            ": disporremo di, otterremo"
-        ],
-        "189": [
-            "più",
-            "più"
-        ],
-        "190": [
-            "spazio",
-            ": space",
-            ": Capacità di contenimento",
-            ": posto, capacità"
-        ],
-        "191": [
-            "per",
-            "per"
-        ],
-        "192": [
-            "i",
-            "i"
-        ],
-        "193": [
-            "cioccolatini",
-            ": French chocolates",
-            ": dolci al cioccolato",
-            ": praline, dolci al cioccolato"
-        ],
-        "194": [
-            "francesi!\"",
-            ": French chocolates",
-            ": dal Francia",
-            ": gallici, d'oltralpe"
-        ],
-        "195": [
-            "esclamò",
-            ": exclaimed",
-            ": disse con forza",
-            ": gridò, esordì"
-        ],
-        "196": [
-            "Nicholas,",
-            ": Nicholas exclaimed",
-            ": Nicholas esclamò",
-            ": Niccolò, Nico"
-        ],
-        "197": [
-            "risolvendo",
-            ": resolving",
-            ": risolvendo il conflitto",
-            ": ponendo fine a, risolvendo l'impasse"
-        ],
-        "198": [
-            "la",
-            "la"
-        ],
-        "199": [
-            "lite",
-            ": argument",
-            ": disputa, controversia, divergenza",
-            ": controversia, disputa"
-        ],
-        "200": [
-            "con",
-            "con"
-        ],
-        "201": [
-            "un",
-            "un"
-        ],
-        "202": [
-            "brillante",
-            ": brilliant",
-            ": Intelligente, geniale",
-            ": geniale, ingegnoso"
-        ],
-        "203": [
-            "espediente",
-            ": brilliant trick",
-            ": Soluzione ingegnosa",
-            ": stratagemma, trucco"
-        ],
-        "204": [
-            "che",
-            "che"
-        ],
-        "205": [
-            "fece",
-            ": made",
-            ": causò",
-            ": produsse, suscitò"
-        ],
-        "206": [
-            "ridere",
-            ": to laugh",
-            ": fare risate",
-            ": divertirsi, sbellicarsi"
-        ],
-        "207": [
-            "Susie",
-            ": Susie",
-            ": persona che ride",
-            ": la ragazza, la giovane donna"
-        ],
-        "208": [
-            "fino",
-            "fino"
-        ],
-        "209": [
-            "alle",
-            "alle"
-        ],
-        "210": [
-            "lacrime.",
-            ": to tears",
-            ": ridere eccessivamente",
-            ": pianto, pianto convulsivo"
-        ],
-        "211": [
-            "Quella",
-            "Quella"
-        ],
-        "212": [
-            "risata",
-            ": laughed",
-            ": Ricordo felice",
-            ": Risatina, Ghigno"
-        ],
-        "213": [
-            "degustata",
-            ": savored",
-            ": gustata attentamente",
-            ": assaporata, gustata"
-        ],
-        "214": [
-            "sotto",
-            "sotto"
-        ],
-        "215": [
-            "il",
-            "il"
-        ],
-        "216": [
-            "ciliegio",
-            ": cherry tree",
-            ": Albero da frutto",
-            ": albero delle ciliegie, pianta di ciliegia"
-        ],
-        "217": [
-            "in",
-            "in"
-        ],
-        "218": [
-            "fiore",
-            ": blossoming cherry tree",
-            ": pianta fiorita",
-            ": fioritura, bocciolo"
-        ],
-        "219": [
-            "riaffiorò",
-            ": resurfaced again",
-            ": ricomparve, tornò alla mente",
-            ": rispuntò, riemergendo"
-        ],
-        "220": [
-            "ancora,",
-            "ancora,"
-        ],
-        "221": [
-            "al",
-            "al"
-        ],
-        "222": [
-            "pensiero",
-            ": thought",
-            ": Ricordo, riflessione mentale",
-            ": ricordo, idea"
-        ],
-        "223": [
-            "del",
-            "del"
-        ],
-        "224": [
-            "momento",
-            "momento"
-        ],
-        "225": [
-            "in",
-            "in"
-        ],
-        "226": [
-            "cui",
-            "cui"
-        ],
-        "227": [
-            "si",
-            "si"
-        ],
-        "228": [
-            "erano",
-            "erano"
-        ],
-        "229": [
-            "innamorati;",
-            ": fell in love",
-            ": Fell in love",
-            ": presi d'amore, perdutamente coinvolti"
-        ],
-        "230": [
-            "quel",
-            "quel"
-        ],
-        "231": [
-            "momento",
-            "momento"
-        ],
-        "232": [
-            "in",
-            "in"
-        ],
-        "233": [
-            "cui",
-            "cui"
-        ],
-        "234": [
-            "avevano",
-            "avevano"
-        ],
-        "235": [
-            "capito",
-            "capito"
-        ],
-        "236": [
-            "che",
-            "che"
-        ],
-        "237": [
-            "erano",
-            "erano"
-        ],
-        "238": [
-            "fatti",
-            "fatti"
-        ],
-        "239": [
-            "l'uno",
-            ": one for the",
-            ": per l'altro",
-            ": l'altro, l'individuo"
-        ],
-        "240": [
-            "per",
-            "per"
-        ],
-        "241": [
-            "l'altra.",
-            ": for each other",
-            ": l'altro individuo",
-            ": per l'una\nl'una per l'altra"
-        ],
-        "242": [
-            "E",
-            "E"
-        ],
-        "243": [
-            "così,",
-            "così,"
-        ],
-        "244": [
-            "con",
-            "con"
-        ],
-        "245": [
-            "le",
-            "le"
-        ],
-        "246": [
-            "valigie",
-            ": suitcases",
-            ": Bagagli pronti",
-            ": bauli, borse da viaggio"
-        ],
-        "247": [
-            "pronte",
-            ": ready",
-            ": preparate, fatte",
-            ": preparate, sistemate"
-        ],
-        "248": [
-            "e",
-            "e"
-        ],
-        "249": [
-            "i",
-            "i"
-        ],
-        "250": [
-            "cuori",
-            ": hearts",
-            ": sentimenti amorosi",
-            ": anime, spiriti"
-        ],
-        "251": [
-            "pieni",
-            ": full",
-            ": colmi di amore",
-            ": colmi, carichi"
-        ],
-        "252": [
-            "d'amore,",
-            ": of love",
-            ": pieni di amore",
-            ": di affetto, di passione"
-        ],
-        "253": [
-            "Nicholas",
-            ": Nicholas and Susie leave",
-            ": Nicolas parte",
-            ": Nico, Niccolò"
-        ],
-        "254": [
-            "e",
-            "e"
-        ],
-        "255": [
-            "Susie",
-            ": Nicholas and Susie leave",
-            ": Nicholas' compagna",
-            ": Suzanne, Susan"
-        ],
-        "256": [
-            "part",
-            ": leave",
-            ": partirono",
-            ": partono, si mettono in viaggio"
+            "geldik",
+            ": we have come",
+            ": Arrived at end",
+            ": ulaştık, varıldı"
         ]
     }
 }
