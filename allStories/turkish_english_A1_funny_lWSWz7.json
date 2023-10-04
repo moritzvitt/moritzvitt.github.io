@@ -1,0 +1,1025 @@
+{
+    "turkish": "Bir gün, yabancı bir adam İstanbul'da bir kafeye gitmeye karar verdi. Adı Tom'du. Tom Amerikalıydı ve çok az Türkçe konuşabiliyordu.\n\nTom kafeye vardığında, \"Merhaba!\" dedi. Garson yanına geldi ve \"Hoş geldin!\" dedi. \"Biraz Türkçe konuşabilirim\" dedi Tom. Garson gülümsedi. \"Çok güzel!\" dedi.\n\nGarson, Tom'a menüyü verdi. Ancak Tom, menüyü okumakta zorlandı. \"Baklava\" kelimesini tanıdı. Baklavayı çok seviyordu. Ama \"çay\" kelimesini bilmiyordu. \"Çay ne?\" diye sordu. Garson, “Çay, Türklerin çok sevdiği bir içecektir.” dedi.\n\nTom, \"Tamam, bir çay ve bir baklava alayım\" dedi. Garson gülümsedi ve \"Çok iyi bir seçim!\" dedi.\n\nBiraz sonra, garson çayı ve baklavayı getirdi. Ancak Tom çayı baklavadan önce içmek istedi. Çayın ucunda tüm tatlılar gibi bir kaşık bekliyordu. Tom bu kaşığı çayını karıştırmak için kullandı.\n\nHerkes Tom'a bakıyordu. Bir adam gülerek ona, \"Türkiye'de çayı kaşıkla karıştırmayız\" dedi. Tom kıpkırmızı oldu ama sonra herkesle birlikte güldü.\n\nTom o gün, çayı nasıl içmesi gerektiğini öğrendi. Ve daha da önemlisi, biraz daha Türkçe öğrendi. Tom kafeden ayrılırken, herkese \"Hoşça kal!\" dedi. Herkes ona dönüş yolunda iyi şanslar diledi.\n\nBu hikayenin sonuna geldik",
+    "translations": {
+        "1": [
+            "Bir",
+            ": A",
+            ": Tekil belirleme",
+            ": Tek, adet"
+        ],
+        "2": [
+            "gün,",
+            ": a day",
+            ": Belirli zaman\n",
+            ": zaman, dönem"
+        ],
+        "3": [
+            "yabancı",
+            ": a foreign man",
+            ": tanıdık olmayan kişi\n",
+            ": tanımadık, bilinmeyen"
+        ],
+        "4": [
+            "bir",
+            ": a, one",
+            ": \"bir\" = \"a\"",
+            ": tek, tekil"
+        ],
+        "5": [
+            "adam",
+            ": a man",
+            ": Birini tanımlıyor",
+            ": erkek, birey"
+        ],
+        "6": [
+            "İstanbul'da",
+            ": in Istanbul",
+            ": Adamın konumu\n",
+            ": Metropolde, büyük şehirde"
+        ],
+        "7": [
+            "bir",
+            ": a",
+            ": \"one\"",
+            ": tek, tekil"
+        ],
+        "8": [
+            "kafeye",
+            ": to a cafe",
+            ": \"to a cafe\"",
+            ": kıraathaneye, çay ocağına"
+        ],
+        "9": [
+            "gitmeye",
+            ": to go to",
+            ": Kafeye gitmek\n",
+            ": seyahat etmeye, yolculuk yapmaya"
+        ],
+        "10": [
+            "karar",
+            ": decided to go",
+            ": Bir karar verme",
+            ": hüküm, karşılaştırma"
+        ],
+        "11": [
+            "verdi.",
+            ": decided to go",
+            ": Karar verme durumu",
+            ": kararlaştı, belirledi"
+        ],
+        "12": [
+            "Adı",
+            ": His name",
+            ": İsim belirtme",
+            ": İsmi, İsim\n"
+        ],
+        "13": [
+            "Tom'du.",
+            ": Was Tom",
+            ": \"His name was Tom.\"\n",
+            ": İsmi Tom'du, Tom isimliydi"
+        ],
+        "14": [
+            "Tom",
+            ": Tom was American",
+            ": Tom Amerikalı, Türkçeyi az konuşuyor.",
+            ": Amerikalıydı, ABD'liydi\nkonuşabiliyord"
+        ],
+        "15": [
+            "Amerikalıydı",
+            ": He was American",
+            ": Tom American.",
+            ": ABD'liydi, Amerika'dan geliyordu"
+        ],
+        "16": [
+            "ve",
+            "ve"
+        ],
+        "17": [
+            "çok",
+            ": very",
+            ": \"oldukça az\"",
+            ": bir hayli, oldukça, epeyce"
+        ],
+        "18": [
+            "az",
+            ": very little",
+            ": Tom's limited Turkish",
+            ": kıt, nadir"
+        ],
+        "19": [
+            "Türkçe",
+            ": Turkish",
+            ": Konuşulan dil",
+            ": Dil, lisan"
+        ],
+        "20": [
+            "konuşabiliyordu.",
+            ": could speak Turkish",
+            ": Tom's limited Turkish",
+            ": söyleyebiliyordu, anlatabiliyordu, ifade"
+        ],
+        "21": [
+            "Tom",
+            ": When Tom arrived",
+            ": Kafee gelen kişi",
+            ": \"ulaştığında\", \"geldiğinde\""
+        ],
+        "22": [
+            "kafeye",
+            ": to the cafe",
+            ": Tom'a geldi",
+            ": kahveye, meyhaneye"
+        ],
+        "23": [
+            "vardığında,",
+            ": when Tom arrived",
+            ": \"when arrived,\"",
+            ": ulaştığında, geldiğinde"
+        ],
+        "24": [
+            "\"Merhaba!\"",
+            ": Hello!",
+            ": Selamlaşma ifadesi",
+            ": Selam, Alo"
+        ],
+        "25": [
+            "dedi.",
+            ": he said",
+            ": He/she said.",
+            ": Güzellik ve çekicilik"
+        ],
+        "26": [
+            "Garson",
+            ": Waiter",
+            ": Servis elemanı",
+            ": Aşçıbaşı, hizmetçi"
+        ],
+        "27": [
+            "yanına",
+            ": to your side",
+            ": Waiter's proximity",
+            ": yakınına, berisine"
+        ],
+        "28": [
+            "geldi",
+            ": came to",
+            ": Came to him",
+            ": yaklaştı, ulaştı"
+        ],
+        "29": [
+            "ve",
+            "ve"
+        ],
+        "30": [
+            "\"Hoş",
+            ": Welcome",
+            ": Welcome greeting",
+            ": Memnuniyetle, Güzel"
+        ],
+        "31": [
+            "geldin!\"",
+            ": Welcome",
+            ": \"Welcome!\"",
+            ": hoş bulduk, merhaba"
+        ],
+        "32": [
+            "dedi.",
+            ": he/she said",
+            ": He said.",
+            ": Mutlu - Neşeli"
+        ],
+        "33": [
+            "\"Biraz",
+            ": A little",
+            ": \"Little bit\"",
+            ": Az, kısmen"
+        ],
+        "34": [
+            "Türkçe",
+            ": Turkish",
+            ": Tom'un dil bilgisi",
+            ": Konuşmak, konuşabilme\nBiraz, azıcık"
+        ],
+        "35": [
+            "konuşabilirim\"",
+            ": I can speak",
+            ": Speak Turkish.",
+            ": sohbet edebilirim, muhabbet edebilirim"
+        ],
+        "36": [
+            "dedi",
+            ": said Tom",
+            ": Tom said",
+            ": belirtti, ifade etti, açıkladı"
+        ],
+        "37": [
+            "Tom.",
+            ": Tom said",
+            ": Tom Türkçe konuşabiliyor.",
+            ": Az Türkçe konuşabiliyorum, Bir miktar Türkçe kon"
+        ],
+        "38": [
+            "Garson",
+            ": Waiter",
+            ": Hizmetçi gülümsedi.",
+            ": Hizmetçi, Servis elemanı"
+        ],
+        "39": [
+            "gülümsedi.",
+            ": Waiter smiled.",
+            ": Waiter smiled.",
+            ": tebessüm etti, sırıttı"
+        ],
+        "40": [
+            "\"Çok",
+            ": Very",
+            ": Aşırı derecede güzel",
+            ": Aşırı, fazla"
+        ],
+        "41": [
+            "güzel!\"",
+            ": Very beautiful",
+            ": Daha fazla övgü",
+            ": hoş, çekici"
+        ],
+        "42": [
+            "dedi.",
+            ": he/she said",
+            ": \"he said.\"",
+            ": mutlu - neşeli"
+        ],
+        "43": [
+            "Garson,",
+            ": Waiter",
+            ": Tom'a hizmet\n",
+            ": Servis elemanı, hizmetli"
+        ],
+        "44": [
+            "Tom'a",
+            ": to Tom",
+            ": Garson Tom'a servis ediyor.",
+            ": sunulan, verilen"
+        ],
+        "45": [
+            "menüyü",
+            ": the menu",
+            ": Tom'a verildi\n",
+            ": yemek listesi, yemek kartı"
+        ],
+        "46": [
+            "verdi.",
+            ": gave",
+            ": Verdi - Sunum yaptı",
+            ": sundu, takdim etti"
+        ],
+        "47": [
+            "Ancak",
+            ": But",
+            ": Ama, fakat, yine de",
+            ": Yalnız, Fakat"
+        ],
+        "48": [
+            "Tom,",
+            ": But Tom",
+            ": Tom zorlandı.",
+            ": güçlük çekmek, mücadele etmek"
+        ],
+        "49": [
+            "menüyü",
+            ": the menu",
+            ": Tom'un okuması",
+            ": yemek listesini, yemek kartını"
+        ],
+        "50": [
+            "okumakta",
+            ": reading the",
+            ": reading menu",
+            ": zorluk çekmek, güçlük çekmek, sıkınt"
+        ],
+        "51": [
+            "zorlandı.",
+            ": struggled",
+            ": Struggled to read",
+            ": güçlük çekti, sıkıntı yaşadı"
+        ],
+        "52": [
+            "\"Baklava\"",
+            ": Recognized the word \"Baklava\".",
+            ": Tanıma işlemi\n",
+            ": Dilim tatlı, şerbetli tatlı"
+        ],
+        "53": [
+            "kelimesini",
+            ": its word",
+            ": Tanıma eylemi",
+            ": farkında, bilir, tanır"
+        ],
+        "54": [
+            "tanıdı.",
+            ": recognized",
+            ": Bir yemeği biliyor",
+            ": bildi, tanımladı"
+        ],
+        "55": [
+            "Baklavayı",
+            ": The baklava",
+            ": Tatlıyı çok seviyordu.",
+            ": Tatlıyı, şekerliyi"
+        ],
+        "56": [
+            "çok",
+            ": very much",
+            ": Aşırı derecede seviyor",
+            ": fazlasıyla, aşırı derecede"
+        ],
+        "57": [
+            "seviyordu.",
+            ": he loved",
+            ": \"Loved baklava a lot.\"",
+            ": hoşlanıyordu, bayılıyordu, düşkündü"
+        ],
+        "58": [
+            "Ama",
+            ": But",
+            ": Ama doesn't know \"tea\".",
+            ": Fakat, Ancak"
+        ],
+        "59": [
+            "\"çay\"",
+            ": tea",
+            ": Bilinmeyen içecek",
+            ": nehir, akarsu"
+        ],
+        "60": [
+            "kelimesini",
+            ": its word",
+            ": Bilme durumu",
+            ": sözcüğünü, terimini"
+        ],
+        "61": [
+            "bilmiyordu.",
+            ": did not know",
+            ": Didn't know \"tea\".",
+            ": farkında değildi, haberi yoktu"
+        ],
+        "62": [
+            "\"Çay",
+            ": Tea",
+            ": Türk çayı",
+            ": Demlik, sürahi"
+        ],
+        "63": [
+            "ne?\"",
+            "ne?\""
+        ],
+        "64": [
+            "diye",
+            ": said",
+            ": \"asked saying\"",
+            ": Dolayısıyla, bu yüzden"
+        ],
+        "65": [
+            "sordu.",
+            ": asked",
+            ": \"asked.\"",
+            ": istemek, talep etmek"
+        ],
+        "66": [
+            "Garson,",
+            ": Waiter",
+            ": Türkler çay sever.",
+            ": Servis elemanı, hizmetli"
+        ],
+        "67": [
+            "“Çay,",
+            ": Tea",
+            ": Türklerin favori içeceği",
+            ": Dem, semaver suyu"
+        ],
+        "68": [
+            "Türklerin",
+            ": of the Turks",
+            ": Türklerin favorisi",
+            ": Anadolu halkının, Osmanlıların"
+        ],
+        "69": [
+            "çok",
+            ": much",
+            ": Aşırı derecede\n",
+            ": fazlasıyla, aşırı derecede"
+        ],
+        "70": [
+            "sevdiği",
+            ": loved very much",
+            ": Loved by Turks",
+            ": hoşlandığı, tercih ettiği"
+        ],
+        "71": [
+            "bir",
+            ": a",
+            ": Turkish love tea",
+            ": içecek, sıvı"
+        ],
+        "72": [
+            "içecektir.”",
+            ": is a drink",
+            ": Turkish preferred drink",
+            ": içki, meşrubat"
+        ],
+        "73": [
+            "dedi.",
+            ": said",
+            ": Türklerin çay sevgisi",
+            ": ifade etti, belirtti"
+        ],
+        "74": [
+            "Tom,",
+            ": Tom",
+            ": Tom sipariş veriyor.",
+            ": sipariş etmek, almak"
+        ],
+        "75": [
+            "\"Tamam,",
+            ": Okay",
+            ": Tom sipariş veriyor",
+            ": Peki, Onay"
+        ],
+        "76": [
+            "bir",
+            ": a",
+            ": Tom orders\n",
+            ": tek, yalnız"
+        ],
+        "77": [
+            "çay",
+            ": tea",
+            ": Sipariş içeceği",
+            ": demlik, demliğin suyu"
+        ],
+        "78": [
+            "ve",
+            "ve"
+        ],
+        "79": [
+            "bir",
+            ": a",
+            ": Ordering food",
+            ": tek, yalnız"
+        ],
+        "80": [
+            "baklava",
+            ": a baklava",
+            ": Tatlı siparişi",
+            ": tatlı, şerbetli yemek"
+        ],
+        "81": [
+            "alayım\"",
+            ": I'll have",
+            ": \"I'll have\"",
+            ": satın alayım, edineyim"
+        ],
+        "82": [
+            "dedi.",
+            ": said",
+            ": Tom sipariş verdi.",
+            ": söyledi, belirtti, ifade etti"
+        ],
+        "83": [
+            "Garson",
+            ": Waiter",
+            ": Waiter smiled",
+            ": Aşçı, Hizmetli"
+        ],
+        "84": [
+            "gülümsedi",
+            ": smiled",
+            ": Waiter smiled",
+            ": tebessüm etti, sırıttı"
+        ],
+        "85": [
+            "ve",
+            "ve"
+        ],
+        "86": [
+            "\"Çok",
+            ": Very",
+            ": Çok olumlu anlamında",
+            ": Fazla, aşırı"
+        ],
+        "87": [
+            "iyi",
+            ": very good",
+            ": Very good choice",
+            ": Mükemmel, harika"
+        ],
+        "88": [
+            "bir",
+            ": a",
+            ": Very good choice!",
+            ": mükemmel, harika"
+        ],
+        "89": [
+            "seçim!\"",
+            ": Very good choice",
+            ": Excellent choice!",
+            ": tercih, seçenek"
+        ],
+        "90": [
+            "dedi.",
+            ": he/she said",
+            ": Söyledi anlamında",
+            ": Mutlu - Neşeli"
+        ],
+        "91": [
+            "Biraz",
+            ": A little later",
+            ": Kısa bir süre",
+            ": Kısa süre, az sonra"
+        ],
+        "92": [
+            "sonra,",
+            ": a bit later",
+            ": Daha sonra",
+            ": ardından, müteakip"
+        ],
+        "93": [
+            "garson",
+            ": the waiter",
+            ": Restoran çalışanı",
+            ": Servis elemanı, kafe çalışanı"
+        ],
+        "94": [
+            "çayı",
+            ": the tea",
+            ": Servis edilen içecek",
+            ": demlemeyi, içeceği"
+        ],
+        "95": [
+            "ve",
+            "ve"
+        ],
+        "96": [
+            "baklavayı",
+            ": the baklava",
+            ": Tatlı servisi\n",
+            ": tatlıyı, şerbetliyi"
+        ],
+        "97": [
+            "getirdi.",
+            ": brought it",
+            ": Servis yaptı.",
+            ": sundu, ikram etti"
+        ],
+        "98": [
+            "Ancak",
+            ": But",
+            ": Fakat, ama, yine de",
+            ": Yalnızca, sadece"
+        ],
+        "99": [
+            "Tom",
+            ": But Tom wanted",
+            ": Çay içme tercihi",
+            ": içmek - yudumlamak, tüketmek, içine almak"
+        ],
+        "100": [
+            "çayı",
+            ": the tea",
+            ": Tom's tea",
+            ": demli, dem, infüzyon"
+        ],
+        "101": [
+            "baklavadan",
+            ": before the baklava",
+            ": \"before baklava\"",
+            ": tatlıdan, şerbetliden"
+        ],
+        "102": [
+            "önce",
+            ": before",
+            ": \"before dessert\"",
+            ": ilk, evvel"
+        ],
+        "103": [
+            "içmek",
+            ": to drink",
+            ": Tom's drinking preference",
+            ": tüketmek, yudumlamak"
+        ],
+        "104": [
+            "istedi.",
+            ": wanted to",
+            ": Tom'un tercihi",
+            ": arzu etti, talep etti, dilemek"
+        ],
+        "105": [
+            "Çayın",
+            ": Tea's",
+            ": Tatlı kaşıklama işlemi",
+            ": Yokuş, eğim"
+        ],
+        "106": [
+            "ucunda",
+            ": at the end",
+            ": \"at the end\"",
+            ": sonunda, nihayetinde"
+        ],
+        "107": [
+            "tüm",
+            ": all",
+            ": Bütün tatlılar\n",
+            ": bütün, hepsi"
+        ],
+        "108": [
+            "tatlılar",
+            ": all the sweets",
+            ": Bekleyen yiyecekler",
+            ": şekerlemeler, tatlı şeyler"
+        ],
+        "109": [
+            "gibi",
+            ": like",
+            ": \"like all sweets\"",
+            ": örneğin, sanki"
+        ],
+        "110": [
+            "bir",
+            ": a spoon",
+            ": Beklenen tatlılık",
+            ": Kaşık, kepçe\nTatlılar, şekerlemeler"
+        ],
+        "111": [
+            "kaşık",
+            ": a spoon",
+            ": Tatlı servisi",
+            ": çatal, kepçe"
+        ],
+        "112": [
+            "bekliyordu.",
+            ": was waiting",
+            ": Waiting on spoon.",
+            ": umuyordu, beklemekteydi"
+        ],
+        "113": [
+            "Tom",
+            ": Tom",
+            ": Çay karıştırma aracı",
+            ": kullanmak, yararlanmak"
+        ],
+        "114": [
+            "bu",
+            ": this",
+            ": Kaşık kullanımı",
+            ": şu, o"
+        ],
+        "115": [
+            "kaşığı",
+            ": the spoon",
+            ": Çay karıştırma aracı",
+            ": çatalı, kepçeyi"
+        ],
+        "116": [
+            "çayını",
+            ": his tea",
+            ": Tom'un çayı",
+            ": demlenmişini, içeceğini"
+        ],
+        "117": [
+            "karıştırmak",
+            ": to stir",
+            ": Çayı karıştırmak",
+            ": bulandırmak, karışım yapmak"
+        ],
+        "118": [
+            "için",
+            ": to stir",
+            ": \"to stir\"",
+            ": amacıyla, niyetinde"
+        ],
+        "119": [
+            "kullandı.",
+            ": used it.",
+            ": Tom used spoon.",
+            ": kullanmak, yararlanmak, faydalanmak"
+        ],
+        "120": [
+            "Herkes",
+            ": Everyone",
+            ": Herkesi izliyor",
+            ": Bütün, her biri"
+        ],
+        "121": [
+            "Tom'a",
+            ": to Tom",
+            ": Odak noktası Tom",
+            ": Tom'a karşı ve Tom'a doğru"
+        ],
+        "122": [
+            "bakıyordu.",
+            ": was looking",
+            ": \"Looking at Tom\"",
+            ": gözlüyordu, izliyordu"
+        ],
+        "123": [
+            "Bir",
+            ": A",
+            ": Kültürel farklılık",
+            ": Kişi, adam"
+        ],
+        "124": [
+            "adam",
+            ": a man",
+            ": Kültürel farklılık\n",
+            ": erkek, birey"
+        ],
+        "125": [
+            "gülerek",
+            ": laughing",
+            ": Adamın neşesi\n",
+            ": neşeyle, keyifle"
+        ],
+        "126": [
+            "ona,",
+            ": to him",
+            ": Cultural difference explanation",
+            ": kendisine, buna"
+        ],
+        "127": [
+            "\"Türkiye'de",
+            ": in Turkey",
+            ": Çay karıştırma yöntemi",
+            ": Türkiye'deki, Türkiye içinde."
+        ],
+        "128": [
+            "çayı",
+            ": the tea",
+            ": Tea stirring method",
+            ": demlemeyi, infüzyonu"
+        ],
+        "129": [
+            "kaşıkla",
+            ": with a spoon",
+            ": Çay karıştırma yöntemi",
+            ": Karıştırmak için, Sallamak için"
+        ],
+        "130": [
+            "karıştırmayız\"",
+            ": we don't stir",
+            ": We don't stir",
+            ": bulaştırmayız, karışım yapmayız"
+        ],
+        "131": [
+            "dedi.",
+            ": he said",
+            ": Kültürel farklılıklar",
+            ": söyledi, belirtti, ifade etti"
+        ],
+        "132": [
+            "Tom",
+            ": Tom turned bright red",
+            ": Utandı, sonra güldü.",
+            ": mahcup oldu, utançtan kızardı"
+        ],
+        "133": [
+            "kıpkırmızı",
+            ": bright red",
+            ": Tom blushed deeply.",
+            ": bütünüyle kırmızı, tamamen kırmızı"
+        ],
+        "134": [
+            "oldu",
+            ": became bright red",
+            ": Tom blushed",
+            ": kızardı, kızarıklık oldu"
+        ],
+        "135": [
+            "ama",
+            ": but",
+            ": Utangaçlık sonrası neşe",
+            ": fakat, ancak"
+        ],
+        "136": [
+            "sonra",
+            ": but then",
+            ": \"Afterwards\"",
+            ": ardından, daha sonra"
+        ],
+        "137": [
+            "herkesle",
+            ": with everyone",
+            ": with everyone",
+            ": herkesin yanında, bütün insanlarla"
+        ],
+        "138": [
+            "birlikte",
+            ": with everyone",
+            ": Hepsiyle eşzamanlı\n",
+            ": Hep beraber, beraber, beraberce"
+        ],
+        "139": [
+            "güldü.",
+            ": laughed with everyone",
+            ": Tom laughed too.",
+            ": kahkaha attı, gülme krizine girdi"
+        ],
+        "140": [
+            "Tom",
+            ": Tom",
+            ": Tom çay içmeyi öğrendi.",
+            ": öğrenmek, kavramak\ngün, gün boyunca"
+        ],
+        "141": [
+            "o",
+            "o"
+        ],
+        "142": [
+            "gün,",
+            ": that day",
+            ": O gün öğrenme",
+            ": zaman, dönem"
+        ],
+        "143": [
+            "çayı",
+            ": the tea",
+            ": Tom learned tea-drinking.",
+            ": içeceği, tüketeceği"
+        ],
+        "144": [
+            "nasıl",
+            ": how to",
+            ": Yöntem öğrenme",
+            ": biçimde, şekilde"
+        ],
+        "145": [
+            "içmesi",
+            ": to drink it",
+            ": çay içme şekli",
+            ": yudumlaması, tüketmesi"
+        ],
+        "146": [
+            "gerektiğini",
+            ": he should",
+            ": \"needed to\"",
+            ": lazım olduğunu, olması icap ettiğini"
+        ],
+        "147": [
+            "öğrendi.",
+            ": he learned",
+            ": Tom learned.",
+            ": anladı, kavradı"
+        ],
+        "148": [
+            "Ve",
+            "Ve"
+        ],
+        "149": [
+            "daha",
+            ": more",
+            ": Daha fazla, ilaveten",
+            ": fazla, ekstra"
+        ],
+        "150": [
+            "da",
+            "da"
+        ],
+        "151": [
+            "önemlisi,",
+            ": more importantly",
+            ": 'More importantly,'",
+            ": esas olan, asıl olan"
+        ],
+        "152": [
+            "biraz",
+            ": a bit more",
+            ": Kısmen daha fazla",
+            ": azıcık, bir miktar"
+        ],
+        "153": [
+            "daha",
+            ": more",
+            ": \"more\"",
+            ": fazladan, ekstra"
+        ],
+        "154": [
+            "Türkçe",
+            ": Turkish",
+            ": Dil öğrenme.",
+            ": Dil, lisan"
+        ],
+        "155": [
+            "öğrendi.",
+            ": he learned",
+            ": Learned more Turkish.",
+            ": öğrenmek, kavramak, idrak etmek"
+        ],
+        "156": [
+            "Tom",
+            ": Tom",
+            ": Kafe'den ayrılıyor",
+            ": Elveda, Güle güle"
+        ],
+        "157": [
+            "kafeden",
+            ": from the cafe",
+            ": \"from the cafe\"",
+            ": kahvehaneden, kafeteryadan"
+        ],
+        "158": [
+            "ayrılırken,",
+            ": when leaving",
+            ": Tom leaving cafe",
+            ": giderken, çıkarken"
+        ],
+        "159": [
+            "herkese",
+            ": to everyone",
+            ": everyone to",
+            ": bütün kişilere, tüm insanlara"
+        ],
+        "160": [
+            "\"Hoşça",
+            ": Goodbye",
+            ": \"Goodbye\"",
+            ": Elveda, Güle güle"
+        ],
+        "161": [
+            "kal!\"",
+            ": Goodbye",
+            ": Elveda demek",
+            ": Güle güle, Allahaısmarladık"
+        ],
+        "162": [
+            "dedi.",
+            ": he/she said",
+            ": Konuşmayı belirtir.",
+            ": Mutlu - Neşeli"
+        ],
+        "163": [
+            "Herkes",
+            ": Everyone",
+            ": Her insan",
+            ": Bütün, tüm"
+        ],
+        "164": [
+            "ona",
+            ": to him",
+            ": Her to everyone",
+            ": onun, kendisine, buna"
+        ],
+        "165": [
+            "dönüş",
+            ": return journey",
+            ": geri gelme\n",
+            ": geri dönme, geri gelme"
+        ],
+        "166": [
+            "yolunda",
+            ": on his way back",
+            ": dönüş yolunda\n",
+            ": giderken, dönüşünde"
+        ],
+        "167": [
+            "iyi",
+            ": good",
+            ": İyi dilekler\n",
+            ": olumlu, güzel"
+        ],
+        "168": [
+            "şanslar",
+            ": good luck",
+            ": İyi dilekler.",
+            ": iyi dilekler, iyi temenniler"
+        ],
+        "169": [
+            "diledi.",
+            ": wished him luck",
+            ": Wished him luck",
+            ": temenni etti, dilekte bulundu"
+        ],
+        "170": [
+            "Bu",
+            ": This",
+            ": Bu = this",
+            ": Şu, İşte"
+        ],
+        "171": [
+            "hikayenin",
+            ": of the story",
+            ": \"hikayenin\" - \"of the story\"",
+            ": öykünün, masalın"
+        ],
+        "172": [
+            "sonuna",
+            ": to the end",
+            ": Hikayenin bitişi",
+            ": bitişine, nihayetine"
+        ],
+        "173": [
+            "geldik",
+            ": we have come",
+            ": Arrived at end",
+            ": ulaştık, varıldı"
+        ]
+    }
+}
