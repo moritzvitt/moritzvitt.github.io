@@ -1,517 +1,89 @@
 {
-    "french": "Nicholas et Susie se sont rencontrés à un événement littéraire. Susie, toujours maladroite, a renversé un verre de vin sur Nicholas. Leurs rires ont résonné et l’amour est né. Un jour, Nicholas a osé : « Susie, voulons-nous nous embrasser ? » La réponse de Susie fit sourire tout le monde, « Seulement si tu ne portes pas ton chapeau ridicule ! ».\n\nPar la suite, ils prévoyaient un voyage à Paris. \"Au lieu d'avoir Ulysse comme guide\", trébuchait Nicholas, \"pourquoi n’avons-nous pas Google Maps?\" Les hochements de tête de Susie n'étaient rien de moins que hilarants.\n\nEn effet, leur amour était incomparable, mais leur sens de l'humour était la véritable beauté. Ainsi, Nicholas et Susie ont ri, aimé et se sont aventurés, un plan à la fois.",
+    "french": "Nicolas et Susie tombent amoureux. Ils s'embrassent passionnément, planifient un voyage ensemble, mais oublient d'acheter les billets d'avion! Oh là là!",
     "translations": {
         "1": [
-            "Nicholas",
-            ": Nicholas"
+            "Nicolas",
+            ": Nicolas<br>Personnage principal"
         ],
         "2": [
             "et",
-            ": and"
+            ": and<br>et = and"
         ],
         "3": [
             "Susie",
-            ": Susie"
+            ": Susie<br>fille dont Nicolas est amoureux"
         ],
         "4": [
-            "se",
-            "se"
+            "tombent",
+            ": fall in love<br>sont devenus amoureux"
         ],
         "5": [
-            "sont",
-            ": are"
+            "amoureux.",
+            ": in love<br>tombent en amour"
         ],
         "6": [
-            "rencontrés",
-            ": met"
+            "Ils",
+            ": They<br>Ils = They"
         ],
         "7": [
-            "à",
-            ": at"
+            "s'embrassent",
+            ": they kiss<br>Ils s'embrassent passionnément\n"
         ],
         "8": [
-            "un",
-            "un"
+            "passionnément,",
+            ": passionately<br>Avec beaucoup d'amour"
         ],
         "9": [
-            "événement",
-            ": literary event"
+            "planifient",
+            ": plan a trip<br>préparent un voyage"
         ],
         "10": [
-            "littéraire.",
-            ": literary"
+            "un",
+            "un"
         ],
         "11": [
-            "Susie,",
-            ": 'Susie,'"
+            "voyage",
+            ": planning a trip<br>planifier un trajet"
         ],
         "12": [
-            "toujours",
-            ": always"
+            "ensemble,",
+            ": together<br>\"En compagnie\""
         ],
         "13": [
-            "maladroite,",
-            ": clumsy"
+            "mais",
+            ": but<br>but"
         ],
         "14": [
-            "a",
-            "a"
+            "oublient",
+            ": forget to<br>oublient d'acheter"
         ],
         "15": [
-            "renversé",
-            ": spilled over"
+            "d'acheter",
+            ": to buy<br>à acheter"
         ],
         "16": [
-            "un",
-            "un"
+            "les",
+            ": the<br>les = the (pluriel)"
         ],
         "17": [
-            "verre",
-            ": a glass"
+            "billets",
+            ": airplane tickets<br>billets d'avion"
         ],
         "18": [
-            "de",
-            "de"
+            "d'avion!",
+            ": plane tickets<br>billets d'avion"
         ],
         "19": [
-            "vin",
-            ": wine"
+            "Oh",
+            "Oh"
         ],
         "20": [
-            "sur",
-            ": on"
+            "là",
+            "là"
         ],
         "21": [
-            "Nicholas.",
-            ": 'on Nicholas.'"
-        ],
-        "22": [
-            "Leurs",
-            ": their"
-        ],
-        "23": [
-            "rires",
-            ": laughter"
-        ],
-        "24": [
-            "ont",
-            ": have resonated"
-        ],
-        "25": [
-            "résonné",
-            ": echoed"
-        ],
-        "26": [
-            "et",
-            ": and"
-        ],
-        "27": [
-            "l’amour",
-            ": the love"
-        ],
-        "28": [
-            "est",
-            ": is born"
-        ],
-        "29": [
-            "né.",
-            "né."
-        ],
-        "30": [
-            "Un",
-            "Un"
-        ],
-        "31": [
-            "jour,",
-            ": 'day'"
-        ],
-        "32": [
-            "Nicholas",
-            "': One day, Nicholas dared: \"Susie, do we want to kiss each other?'"
-        ],
-        "33": [
-            "a",
-            "a"
-        ],
-        "34": [
-            "osé",
-            ": dared"
-        ],
-        "35": [
-            ":",
-            "': said'"
-        ],
-        "36": [
-            "«",
-            ": \"Do we want to kiss?\""
-        ],
-        "37": [
-            "Susie,",
-            ": \"Susie,\""
-        ],
-        "38": [
-            "voulons-nous",
-            ": 'shall we'"
-        ],
-        "39": [
-            "nous",
-            ": 'we'"
-        ],
-        "40": [
-            "embrasser",
-            ": 'kiss each other'"
-        ],
-        "41": [
-            "?",
-            ": \"do we want\""
-        ],
-        "42": [
-            "»",
-            ": \"Susie's response made everyone smile, \"Only if you're not wearing your ridiculous hat"
-        ],
-        "43": [
-            "La",
-            "La"
-        ],
-        "44": [
-            "réponse",
-            ": 'answer'"
-        ],
-        "45": [
-            "de",
-            "de"
-        ],
-        "46": [
-            "Susie",
-            ": 'Susie's answer'"
-        ],
-        "47": [
-            "fit",
-            ": made everyone smile"
-        ],
-        "48": [
-            "sourire",
-            ": make everyone smile"
-        ],
-        "49": [
-            "tout",
-            ": everyone"
-        ],
-        "50": [
-            "le",
-            "le"
-        ],
-        "51": [
-            "monde,",
-            ": everyone"
-        ],
-        "52": [
-            "«",
-            ": \"Only if"
-        ],
-        "53": [
-            "Seulement",
-            ": Only"
-        ],
-        "54": [
-            "si",
-            "si"
-        ],
-        "55": [
-            "tu",
-            "tu"
-        ],
-        "56": [
-            "ne",
-            "ne"
-        ],
-        "57": [
-            "portes",
-            ": you wear"
-        ],
-        "58": [
-            "pas",
-            ": not"
-        ],
-        "59": [
-            "ton",
-            ": your"
-        ],
-        "60": [
-            "chapeau",
-            ": your ridiculous hat"
-        ],
-        "61": [
-            "ridicule",
-            ": ridiculous hat"
-        ],
-        "62": [
-            "!",
-            ": Ridiculous hat!"
-        ],
-        "63": [
-            "».",
-            "I'm sorry, but you put \"».\" in both the text to translate and the language to"
-        ],
-        "64": [
-            "Par",
-            ": By"
-        ],
-        "65": [
-            "la",
-            "la"
-        ],
-        "66": [
-            "suite,",
-            ": subsequently"
-        ],
-        "67": [
-            "ils",
-            ": they"
-        ],
-        "68": [
-            "prévoyaient",
-            ": planned a trip"
-        ],
-        "69": [
-            "un",
-            "un"
-        ],
-        "70": [
-            "voyage",
-            ": a trip"
-        ],
-        "71": [
-            "à",
-            ": to"
-        ],
-        "72": [
-            "Paris.",
-            ": to Paris"
-        ],
-        "73": [
-            "\"Au",
-            ": Instead"
-        ],
-        "74": [
-            "lieu",
-            ": instead of"
-        ],
-        "75": [
-            "d'avoir",
-            ": 'to have'"
-        ],
-        "76": [
-            "Ulysse",
-            ": Ulysses"
-        ],
-        "77": [
-            "comme",
-            ": as"
-        ],
-        "78": [
-            "guide\",",
-            ": guide"
-        ],
-        "79": [
-            "trébuchait",
-            ": stumbled"
-        ],
-        "80": [
-            "Nicholas,",
-            ": \"Nicholas stumbled\""
-        ],
-        "81": [
-            "\"pourquoi",
-            ": why"
-        ],
-        "82": [
-            "n’avons-nous",
-            ": don't we have"
-        ],
-        "83": [
-            "pas",
-            ": not"
-        ],
-        "84": [
-            "Google",
-            ": Google Maps"
-        ],
-        "85": [
-            "Maps?\"",
-            ": Google Maps"
-        ],
-        "86": [
-            "Les",
-            ": The"
-        ],
-        "87": [
-            "hochements",
-            ": head nods"
-        ],
-        "88": [
-            "de",
-            "de"
-        ],
-        "89": [
-            "tête",
-            ": head"
-        ],
-        "90": [
-            "de",
-            "de"
-        ],
-        "91": [
-            "Susie",
-            ": Susie's"
-        ],
-        "92": [
-            "n'étaient",
-            ": were not"
-        ],
-        "93": [
-            "rien",
-            ": nothing"
-        ],
-        "94": [
-            "de",
-            "de"
-        ],
-        "95": [
-            "moins",
-            ": less"
-        ],
-        "96": [
-            "que",
-            ": than"
-        ],
-        "97": [
-            "hilarants.",
-            ": hilarious"
-        ],
-        "98": [
-            "En",
-            ": Indeed"
-        ],
-        "99": [
-            "effet,",
-            ": indeed"
-        ],
-        "100": [
-            "leur",
-            ": their"
-        ],
-        "101": [
-            "amour",
-            ": love"
-        ],
-        "102": [
-            "était",
-            ": was"
-        ],
-        "103": [
-            "incomparable,",
-            ": incomparable"
-        ],
-        "104": [
-            "mais",
-            ": but"
-        ],
-        "105": [
-            "leur",
-            ": their"
-        ],
-        "106": [
-            "sens",
-            ": sense"
-        ],
-        "107": [
-            "de",
-            "de"
-        ],
-        "108": [
-            "l'humour",
-            ": the humor"
-        ],
-        "109": [
-            "était",
-            ": was"
-        ],
-        "110": [
-            "la",
-            "la"
-        ],
-        "111": [
-            "véritable",
-            ": genuine, real, true"
-        ],
-        "112": [
-            "beauté.",
-            ": true beauty"
-        ],
-        "113": [
-            "Ainsi,",
-            ": Thus,"
-        ],
-        "114": [
-            "Nicholas",
-            ": Nicholas"
-        ],
-        "115": [
-            "et",
-            ": and"
-        ],
-        "116": [
-            "Susie",
-            ": Susie"
-        ],
-        "117": [
-            "ont",
-            ": have"
-        ],
-        "118": [
-            "ri,",
-            ": laughed"
-        ],
-        "119": [
-            "aimé",
-            ": loved"
-        ],
-        "120": [
-            "et",
-            ": and"
-        ],
-        "121": [
-            "se",
-            "se"
-        ],
-        "122": [
-            "sont",
-            ": are"
-        ],
-        "123": [
-            "aventurés,",
-            ": ventured out"
-        ],
-        "124": [
-            "un",
-            "un"
-        ],
-        "125": [
-            "plan",
-            ": a plan"
-        ],
-        "126": [
-            "à",
-            ": at a time"
-        ],
-        "127": [
-            "la",
-            "la"
-        ],
-        "128": [
-            "fois.",
-            ": at a time"
+            "là!",
+            "là!"
         ]
     }
 }
