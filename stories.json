@@ -1,9 +1,9 @@
 {
-    "italian": "Nicola e Susie, innamorati, pianificano un viaggio. Sorridendo, si baciano. Tutto pronto! Ma inciampano sulle valigie, cadendo tra le risate. Stupefacentemente romantico!",
+    "italian": "Nicola e Susie, innamorati, si baciarono accendendo il loro amore. Decisero di pianificare un viaggio divertente insieme, inseguendo risate ed emozioni.",
     "translations": {
         "1": [
             "Nicola",
-            ": Nicola\n: Persona innamorata."
+            ": Nicola\n\n\n: Innamorato protagonista"
         ],
         "2": [
             "e",
@@ -11,83 +11,79 @@
         ],
         "3": [
             "Susie,",
-            ": Susie\n: Innamorata di Nicola"
+            ": Susie\n\n\n: Innamorata di Nicola"
         ],
         "4": [
             "innamorati,",
-            ": in love\n: Sono amanti"
+            ": in love\n\n\n: persone che amano"
         ],
         "5": [
-            "pianificano",
-            ": plan a trip\n: Organizzano, programmano."
-        ],
-        "6": [
-            "un",
-            "un"
-        ],
-        "7": [
-            "viaggio.",
-            "viaggio."
-        ],
-        "8": [
-            "Sorridendo,",
-            ": Smiling,\n: Sorridendo mentre baciandosi"
-        ],
-        "9": [
             "si",
             "si"
         ],
+        "6": [
+            "baciarono",
+            ": kissed each other\n\n\n: Si scambiarono baci"
+        ],
+        "7": [
+            "accendendo",
+            ": igniting\n\n\n: intensificando l'amore"
+        ],
+        "8": [
+            "il",
+            "il"
+        ],
+        "9": [
+            "loro",
+            "loro"
+        ],
         "10": [
-            "baciano.",
-            ": they kiss\n: Si stanno baciando"
+            "amore.",
+            ": their love\n\n\n: Sentimento affettivo intenso"
         ],
         "11": [
-            "Tutto",
-            "Tutto"
+            "Decisero",
+            ": They decided\n\n\n: Hanno preso decisione"
         ],
         "12": [
-            "pronto!",
-            "pronto!"
+            "di",
+            "di"
         ],
         "13": [
-            "Ma",
-            "Ma"
+            "pianificare",
+            ": to plan\n\n\n: Organizzare in anticipo"
         ],
         "14": [
-            "inciampano",
-            ": stumble upon\n: Inciampare su qualcosa"
+            "un",
+            "un"
         ],
         "15": [
-            "sulle",
-            "sulle"
+            "viaggio",
+            "viaggio"
         ],
         "16": [
-            "valigie,",
-            ": suitcases\n: Bagagli per viaggio"
+            "divertente",
+            "divertente"
         ],
         "17": [
-            "cadendo",
-            ": falling down\n: Caduta divertente"
+            "insieme,",
+            "insieme,"
         ],
         "18": [
-            "tra",
-            "tra"
+            "inseguendo",
+            ": chasing\n\n\n: Cercando intensamente"
         ],
         "19": [
-            "le",
-            "le"
+            "risate",
+            ": laughs\n\n\n: Ridere forte"
         ],
         "20": [
-            "risate.",
-            ": laughter\n: ridendo rumorosamente"
+            "ed",
+            "ed"
         ],
         "21": [
-            "Stupefacentemente",
-            ": Astonishingly\n: Incredibilmente, estremamente romantico"
-        ],
-        "22": [
-            "romantico!",
-            ": Romantic!\n: Estremamente sentimentale!"
+            "emozioni.",
+            ": emotions\n\n\n: Sentimenti intensi"
         ]
     }
 }
